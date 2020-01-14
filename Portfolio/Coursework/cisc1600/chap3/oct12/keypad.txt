@@ -1,0 +1,10 @@
+[dderasmo@storm oct12]$ ./keypad
+Enter a string : 
+1800yankees
+18009265337
+[dderasmo@storm oct12]$ ./keypad
+Enter a string : 
+1800computerscience
+1800266787377243623
+[dderasmo@storm oct12]$ 
+

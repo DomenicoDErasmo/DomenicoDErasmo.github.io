@@ -1,0 +1,20 @@
+[dderasmo@storm sep14]$ ./meeting
+How many people will be attending the meeting?
+50
+What is the maximum room capacity?
+60
+The meeting can be held. 10 more people can attend the meeting.
+[dderasmo@storm sep14]$ ./meeting
+How many people will be attending the meeting?
+50
+What is the maximum room capacity?
+40
+The meeting can't be held. There are 10 too many people invited.
+[dderasmo@storm sep14]$ ./meeting
+How many people will be attending the meeting?
+50
+What is the maximum room capacity?
+50
+The meeting can be held, but no one else may attend it.
+[dderasmo@storm sep14]$ 
+

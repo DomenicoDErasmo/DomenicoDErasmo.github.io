@@ -1,0 +1,39 @@
+[dderasmo@storm sep23]$ ./tax
+Enter number of hours worked : 35
+Enter the number of dependents : 1
+        Gross pay is    587.30
+
+           SS tax is    -35.24
+          Fed tax is    -82.22
+        State tax is    -29.37
+       Union dues is    -10.00
+        Insurance is      0.00
+
+    Take home pay is    430.47
+Do you want to run the program again? Press 1 to reuse the program. : 1
+Enter number of hours worked : 40
+Enter the number of dependents : 2
+        Gross pay is    671.20
+
+           SS tax is    -40.27
+          Fed tax is    -93.97
+        State tax is    -33.56
+       Union dues is    -10.00
+        Insurance is      0.00
+
+    Take home pay is    493.40
+Do you want to run the program again? Press 1 to reuse the program. : 1
+Enter number of hours worked : 50
+Enter the number of dependents : 3
+        Gross pay is    839.00
+
+           SS tax is    -67.12
+          Fed tax is   -117.46
+        State tax is    -41.95
+       Union dues is    -10.00
+        Insurance is    -35.00
+
+    Take home pay is    567.47
+Do you want to run the program again? Press 1 to reuse the program. : 0
+[dderasmo@storm sep23]$ 
+

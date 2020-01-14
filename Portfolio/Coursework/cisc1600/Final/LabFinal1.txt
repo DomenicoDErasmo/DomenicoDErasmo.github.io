@@ -1,0 +1,13 @@
+[dderasmo@storm Final]$ ./LabFinal1
+Enter a telephone string ie. 123-456-7890 : 133-566-6059
+This is in a valid telephone number format!
+Would you like to check another telephone number (yes/no)? Yes
+Enter a telephone string ie. 123-456-7890 : 133-COMPSCI
+This is NOT in a valid telephone number format!
+Would you like to check another telephone number (yes/no)? Yes
+Enter a telephone string ie. 123-456-7890 : 466-54478362
+This is NOT in a valid telephone number format!
+Would you like to check another telephone number (yes/no)? No
+Have a nice day!
+[dderasmo@storm Final]$ 
+

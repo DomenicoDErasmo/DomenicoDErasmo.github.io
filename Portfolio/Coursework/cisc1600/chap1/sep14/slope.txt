@@ -1,0 +1,25 @@
+[dderasmo@storm sep14]$ ./slope
+The slope formula is (y2-y1)/(x2-x1).
+Enter x2.
+92
+Enter x1.
+90
+Enter y2.
+8
+Enter y1.
+3
+The slope for the points (90,3)and (92,8) is 2.5.
+[dderasmo@storm sep14]$ ./slope
+The slope formula is (y2-y1)/(x2-x1).
+Enter x2.
+4
+Enter x1.
+6
+Enter y2.
+9
+Enter y1.
+2
+The slope for the points (6,2)and (4,9) is -3.5.
+[dderasmo@storm sep14]$ 
+
+

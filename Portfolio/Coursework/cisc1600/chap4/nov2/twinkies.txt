@@ -1,0 +1,18 @@
+dderasmo@storm nov2]$ ./twinkies
+The cost of a deep-fried twinkie is $3.50. You may enter coins one in a time by typing 'dollar,' 'quarter,' 'dime,' 'nickel,' or 'penny.'
+Credit : $0.00. Enter the next coin : dollar
+Credit : $1.00. Enter the next coin : Quarter
+Credit : $1.25. Enter the next coin : Dime
+Credit : $1.35. Enter the next coin : nickel
+Credit : $1.40. Enter the next coin : Penny
+Credit : $1.41. Enter the next coin : Dollar
+Credit : $2.41. Enter the next coin : quarter
+Credit : $2.66. Enter the next coin : dime
+Credit : $2.76. Enter the next coin : Nickel
+Credit : $2.81. Enter the next coin : peny
+Invalid data was entered. Please try again.
+Credit : $2.81. Enter the next coin : penny
+Credit : $2.82. Enter the next coin : Dollar
+Enjoy your twinkie! Your change is $0.32.
+[dderasmo@storm nov2]$ 
+

@@ -1,0 +1,31 @@
+[dderasmo@storm nov30]$ ./numberSearch
+Input number 1 : 14
+Input number 2 : 6
+Input number 3 : 57
+Input number 4 : 42
+Input number 5 : 119
+Input number 6 : 67
+Current list: 14 6 57 42 119 67 
+Enter a query number: 14
+14 was at location 1.
+Current list: 0 6 57 42 119 67 
+Enter a query number: 6
+6 was at location 2.
+Current list: 0 0 57 42 119 67 
+Enter a query number: 119
+119 was at location 5.
+Current list: 0 0 57 42 0 67 
+Enter a query number: 57
+57 was at location 3.
+Current list: 0 0 0 42 0 67 
+Enter a query number: 67
+67 was at location 6.
+Current list: 0 0 0 42 0 0 
+Enter a query number: 42
+42 was at location 4.
+Current list: 0 0 0 0 0 0 
+Enter a query number: 5
+5 was not in the list!
+Goodbye!
+[dderasmo@storm nov30]$ 
+

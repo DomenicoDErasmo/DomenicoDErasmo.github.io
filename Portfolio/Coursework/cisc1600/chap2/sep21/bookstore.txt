@@ -1,0 +1,31 @@
+[dderasmo@storm sep21]$ ./bookstore
+Welcome to the Bronx Bookstore! What is your first name? Domenico
+How many copies of Cervantes do you want? 5
+How many copies of Homer do you want? 7
+How many copies of Shakespeare do you want? 3
+The total cost of the order is 449.57.
+How much will you pay? 500.76
+--------
+Customer: Domenico
+--------
+Item		Number	Price
+Cervantes	5	$206.25
+Homer		7	$110.95
+Shakespeare	3	$91.50
+--------
+Tax			$40.87
+--------
+Total			$449.57
+User Pay		500.76
+--------
+Change			51.19
+[dderasmo@storm sep21]$ ./bookstore
+Welcome to the Bronx Bookstore! What is your first name? Sal
+How many copies of Cervantes do you want? 3
+How many copies of Homer do you want? 4
+How many copies of Shakespeare do you want? 6
+The total cost of the order is 407.17.
+How much will you pay? 200
+You did not pay enough money. Goodbye
+[dderasmo@storm sep21]$ 
+

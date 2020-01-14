@@ -1,0 +1,17 @@
+[dderasmo@storm oct5]$ ./calculator
+Enter an equation or 0x0 to exit: 12/3
+12 / 3 is 4 .
+Enter an equation or 0x0 to exit: q - x
+You entered invalid data. Please try again.
+Enter an equation or 0x0 to exit: 9x4
+9 x 4 is 36 .
+Enter an equation or 0x0 to exit: 5*6
+5 * 6 is 30 .
+Enter an equation or 0x0 to exit: 3-3
+3 - 3 is 0 .
+Enter an equation or 0x0 to exit: 0/0
+Error -- cannot divide by 0.
+Enter an equation or 0x0 to exit: 0x0
+Thanks for using the calculator. Goodbye.
+[dderasmo@storm oct5]$ 
+

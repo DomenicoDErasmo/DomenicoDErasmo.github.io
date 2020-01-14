@@ -1,0 +1,17 @@
+[dderasmo@storm nov15]$ ./militaryTime
+Enter a time to convert (HH:MM) : gffdgh
+The time you entered was an invalid format. Please try again.
+Enter a time to convert (HH:MM) : 44:56
+The time you entered was an invalid format. Please try again.
+Enter a time to convert (HH:MM) : 02:56
+The time is 02:56a.
+Do you want to use the program again? Yes/No : Yes
+Enter a time to convert (HH:MM) : 13:47
+The time is 01:47p.
+Do you want to use the program again? Yes/No : Yes
+Enter a time to convert (HH:MM) : 00:46
+The time is 00:46a.
+Do you want to use the program again? Yes/No : No
+[dderasmo@storm nov15]$ 
+
+

@@ -1,0 +1,20 @@
+[dderasmo@storm LabMidterm]$ vi labMidterm1.cpp
+[dderasmo@storm LabMidterm]$ g++ labMidterm1.cpp -o labMidterm1
+[dderasmo@storm LabMidterm]$ ./labMidterm1
+Enter the two numbers : 6 18
+ The greatest common factor of 6 and 18 is 6.
+Would you like to use the program again? (Yes/No) Yes
+Enter the two numbers : 212 516
+ The greatest common factor of 212 and 516 is 4.
+Would you like to use the program again? (Yes/No) yes
+Enter the two numbers : 9 17
+ The greatest common factor of 9 and 17 is 1.
+Would you like to use the program again? (Yes/No) yes
+Enter the two numbers : 276 36
+ The greatest common factor of 276 and 36 is 12.
+Would you like to use the program again? (Yes/No) NO
+Have a nice day!
+[dderasmo@storm LabMidterm]$ pwd
+/home/students/dderasmo/cisc1600/LabMidterm
+[dderasmo@storm LabMidterm]$ 
+

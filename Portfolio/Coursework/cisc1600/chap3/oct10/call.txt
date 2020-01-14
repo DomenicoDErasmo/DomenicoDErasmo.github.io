@@ -1,0 +1,26 @@
+[dderasmo@storm oct10]$ ./call
+On what day of the week are you calling?
+Your choices are [Mo]nday, [Tu]esday. [We]dnesday, [Th]ursday, [Fr]iday, [Sa]turday, and [Su]nday : qq
+That was not a valid date. Please try again.
+On what day of the week are you calling?
+Your choices are [Mo]nday, [Tu]esday. [We]dnesday, [Th]ursday, [Fr]iday, [Sa]turday, and [Su]nday : Mo
+What time will you start your call? Use the format hours:minutes, like 13:30 : 1:45
+How many minutes long will your call be? 4
+A call on Monday starting at 1:45 and lasting for 4 minutes costs $1.60.
+Do you want to use the program again? Press Y if yes : 
+y
+On what day of the week are you calling?
+Your choices are [Mo]nday, [Tu]esday. [We]dnesday, [Th]ursday, [Fr]iday, [Sa]turday, and [Su]nday : Fr
+What time will you start your call? Use the format hours:minutes, like 13:30 : 11:46
+How many minutes long will your call be? 67
+A call on Friday starting at 11:46 and lasting for 67 minutes costs $26.80.
+Do you want to use the program again? Press Y if yes : 
+Y
+On what day of the week are you calling?
+Your choices are [Mo]nday, [Tu]esday. [We]dnesday, [Th]ursday, [Fr]iday, [Sa]turday, and [Su]nday : sa
+What time will you start your call? Use the format hours:minutes, like 13:30 : 9:00
+How many minutes long will your call be? 5
+A call on Saturday starting at 9:00 and lasting for 5 minutes costs $2.00.
+Do you want to use the program again? Press Y if yes : 
+n
+[dderasmo@storm oct10]$ 

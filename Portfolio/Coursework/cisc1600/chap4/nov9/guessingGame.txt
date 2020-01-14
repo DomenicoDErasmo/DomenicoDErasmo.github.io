@@ -1,0 +1,16 @@
+[dderasmo@storm nov9]$ ./guessingGame
+Guess a 6-sided dice roll and a coin flip : 5 H
+The roll was 5 and the coin flip was T. You guessed incorrectly!
+Your score is -1.
+Would you like to play again? (Yes/No) : Yes
+Guess a 6-sided dice roll and a coin flip : 6 T
+The roll was 5 and the coin flip was T. You guessed incorrectly!
+Your score is -2.
+Would you like to play again? (Yes/No) : Yes
+Guess a 6-sided dice roll and a coin flip : 4 H
+The roll was 2 and the coin flip was H. You guessed incorrectly!
+Your score is -3.
+Would you like to play again? (Yes/No) : No
+Have a nice day!
+[dderasmo@storm nov9]$ 
+

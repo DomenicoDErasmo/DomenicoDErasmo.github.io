@@ -1,0 +1,59 @@
+
+[dderasmo@storm Final]$ ./LabFinal3
+Enter 5 current issues to rate: 
+Enter topic (Politics, Economy, etc.) : Economy
+Enter topic (Politics, Economy, etc.) : Welfare
+Enter topic (Politics, Economy, etc.) : Taxes
+Enter topic (Politics, Economy, etc.) : Borders
+Enter topic (Politics, Economy, etc.) : Guns
+Survey Entry #1
+Please rank the following issues on their importance to you, where 1 is least important and 10 is most important: 
+Economy: 6
+Welfare: 8
+Taxes: 3
+Borders: 4
+Guns: 7
+Do you want to take the survey again? (Yes or No): Yes
+Survey Entry #2
+Please rank the following issues on their importance to you, where 1 is least important and 10 is most important: 
+Economy: 3
+Welfare: 5
+Taxes: 7
+Borders: 6
+Guns: 8
+Do you want to take the survey again? (Yes or No): Yes
+Survey Entry #3
+Please rank the following issues on their importance to you, where 1 is least important and 10 is most important: 
+Economy: 2
+Welfare: 5
+Taxes: 6
+Borders: 10
+Guns: 8
+Do you want to take the survey again? (Yes or No): Yes
+Survey Entry #4
+Please rank the following issues on their importance to you, where 1 is least important and 10 is most important: 
+Economy: 4
+Welfare: 8
+Taxes: 9
+Borders: 3
+Guns: 5
+Do you want to take the survey again? (Yes or No): Yes
+Survey Entry #5
+Please rank the following issues on their importance to you, where 1 is least important and 10 is most important: 
+Economy: 2
+Welfare: 6
+Taxes: 4
+Borders: 7
+Guns: 9
+Do you want to take the survey again? (Yes or No): no
+Results for 5Entries
+Topics		Total		Average		Entry #1	Entry #2	Entry #3	Entry #4	Entry #5	
+Economy		17		3.4		6		3		2		4		2
+Welfare		32		6.4		8		5		5		8		6
+Taxes		29		5.8		3		7		6		9		4
+Borders		30		6		4		6		10		3		7
+Guns		37		7.4		7		8		8		5		9
+
+Goodbye!
+[dderasmo@storm Final]$ 
+

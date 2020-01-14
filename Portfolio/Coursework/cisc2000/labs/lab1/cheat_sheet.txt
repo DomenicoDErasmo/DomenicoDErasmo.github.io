@@ -1,0 +1,68 @@
+Domenico D'Erasmo
+17 January 2018
+Lab 1
+vi Cheat Sheet
+
+Desired Action						|	Command
+-----------------------------------------------------------------------------------------------------------------------------
+							|
+File-Related Commands					|
+----------------------------------------		|
+Start vi to edit a file					|	vi filename.extension
+Exit vi							|	:q! (save without quitting), :wq (save and quit)
+Save your file						|	:w (stay in VI), :wq (save and quit)
+							|
+Cursor and Line Movement				|
+----------------------------------------		|
+Move cursor one character to left			|	h
+Move cursor one line down				|	j
+Move cursor one line up					|	k
+Move cursor one character to right			|	l
+Move cursor one word to right				|	w
+Move cursor one word to left				|	b
+Move cursor to beginning of line			|	0
+Move cursor to end of line				|	$
+Move cursor to line n					|	nG
+Scroll forward one screen				|	CTRL-F
+Scroll backward one screen				|	CRTRL-B
+Go to specific line					|	:linenumber
+							|
+Character Deletion, Copying, and Pasting		|
+----------------------------------------		|
+Delete current word (end with ESC)			|	dw 
+Delete/Cut n lines below cursor				|	ndd
+Delete portion of current line to right of cursor	|	D
+Delete current character				|	x
+Delete everything from marked position to here		|	d`a
+Paste text copied previously				|	p
+Copy and paste text from n lines			|	ndd -> p -> move cursor -> p
+							|
+String Searching					|
+----------------------------------------		|
+Search forward for string (end with Enter)		|	/string
+Search backward for string (end with Enter)		|	?string
+Repeat the last search					|	n
+Replace string1 with string2 on this line		|	:s/string1/string2
+Replace string1 with string2 on line range lr (a,b)	|	:lr/s/s1/s2/g
+							|
+-----------------------------------------------------------------------------------------------------------------------------
+
+Part 4a. Questions: 
+1. To open a file with vi:		vi filename.extension
+2. To exit from vi: 			q! (exit without saving), wq (exit while saving)
+3. To save the file: 			w (save without exiting), wq (exit while saving)
+4. To move the cursor around:		hjkl (left/down/up/right)
+5a. Delete the current word		dw
+5b. Delete the current character	x
+5c. Delete the current line		dd
+5d. Delete n lines			ndd
+6. Search for the occurence of a string	/string (forward), ?string (backward)
+7. Go to specific line of program	:linenumber
+8. Copy and paste text from n lines	ndd -> p -> move cursor to desired paste spot -> p
+
+Part 5b. Questions:
+1. Store preprocessing phase's output to lab1.i: g++ -E lab1.cpp -o lab1.i
+2. Store preprocessing phase and compilation phase outputs to lab1.s: g++ -S lab1.cpp -o lab1.s
+3. Stop after assembly phase and save output to lab1.o: g++ -C lab1.cpp -o lab1.o
+4. Which files are text files, which are binary files? lab1.i and lab1.s are text files, lab1.o is a binary file
+

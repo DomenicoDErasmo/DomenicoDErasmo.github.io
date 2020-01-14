@@ -1,0 +1,10 @@
+[dderasmo@storm Sep11]$ ./area
+
+Enter a desired length.
+4
+Enter a desired width.
+2
+The area is 8.
+[dderasmo@storm Sep11]$ 
+
+

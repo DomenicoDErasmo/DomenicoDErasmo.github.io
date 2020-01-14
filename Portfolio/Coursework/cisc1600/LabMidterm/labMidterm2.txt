@@ -1,0 +1,55 @@
+[dderasmo@storm LabMidterm]$ ./labMidterm2
+Please specify a side length : 6
+Please specify a character : @
+@@@@@@
+@@@@@@
+@@@@@@
+@@@@@@
+@@@@@@
+@@@@@@
+Would you like a triangle with the same side length? (Yes/No) yes
+@
+@@
+@@@
+@@@@
+@@@@@
+@@@@@@
+Have a nice day!
+[dderasmo@storm LabMidterm]$ ./labMidterm2
+Please specify a side length : 10
+Please specify a character : #
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+Would you like a triangle with the same side length? (Yes/No) no
+Have a nice day!
+[dderasmo@storm LabMidterm]$ ./labMidterm2
+Please specify a side length : 7
+Please specify a character : G
+GGGGGGG
+GGGGGGG
+GGGGGGG
+GGGGGGG
+GGGGGGG
+GGGGGGG
+GGGGGGG
+Would you like a triangle with the same side length? (Yes/No) Yes
+G
+GG
+GGG
+GGGG
+GGGGG
+GGGGGG
+GGGGGGG
+Have a nice day!
+[dderasmo@storm LabMidterm]$ pwd
+/home/students/dderasmo/cisc1600/LabMidterm
+[dderasmo@storm LabMidterm]$ 
+

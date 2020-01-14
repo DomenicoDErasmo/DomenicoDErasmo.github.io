@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[dderasmo@storm chap4]$ ./riddlefunctions
+9837 fits all of the criteria.
+[dderasmo@storm chap4]$ 
+

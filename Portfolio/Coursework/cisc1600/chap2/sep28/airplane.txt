@@ -1,0 +1,34 @@
+[dderasmo@storm sep28]$ ./airplane
+Welcome to Fordham Airlines!
+What is your destination? ([C]hicago, [M]iami, or [P]ortland) F
+That is not a valid type of day. Please try again.
+What is your destination? ([C]hicago, [M]iami, or [P]ortland) p
+Enter a flight time, in military time. 2370
+That is not a valid time. Please enter a valid time.
+Enter a flight time, in military time. 2350
+What type of day would you like to travel? (week[D]ay or week[E]nd) J
+That is not a valid type of day. Please try again.
+What type of day would you like to travel? (week[D]ay or week[E]nd) d
+Each ticket costs $240 . How many tickets would you like to buy? 3
+Your total cost is $720. How much would you like to pay? 600 
+You have not paid enough money. You were $120.00 short. Please try again.
+Your total cost is $720. How much would you like to pay? 730.56
+Your order has been placed. Your change is $10.56 . Have a nice day!
+[dderasmo@storm sep28]$ ./airplane
+Welcome to Fordham Airlines!
+What is your destination? ([C]hicago, [M]iami, or [P]ortland) c
+Enter a flight time, in military time. 1200
+What type of day would you like to travel? (week[D]ay or week[E]nd) e
+Each ticket costs $60 . How many tickets would you like to buy? 3
+Your total cost is $180. How much would you like to pay? 190.76
+Your order has been placed. Your change is $10.76 . Have a nice day!
+[dderasmo@storm sep28]$ ./airplane
+Welcome to Fordham Airlines!
+What is your destination? ([C]hicago, [M]iami, or [P]ortland) m
+Enter a flight time, in military time. 100
+What type of day would you like to travel? (week[D]ay or week[E]nd) e
+Each ticket costs $120 . How many tickets would you like to buy? 2  
+Your total cost is $240. How much would you like to pay? 240
+Your order has been placed. Your change is $0.00 . Have a nice day!
+[dderasmo@storm sep28]$ 
+

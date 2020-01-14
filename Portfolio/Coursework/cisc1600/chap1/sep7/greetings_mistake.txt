@@ -1,0 +1,41 @@
+[dderasmo@storm sep7]$ g++ greetings_mistake.cpp -o greetings_mistake
+greetings_mistake.cpp:6:7: error: expected nested-name-specifier before ‘namespoce’
+ using namespoce std; //"namespace" is spelled incorrectly; replace the "o" with an "a".
+       ^~~~~~~~~
+greetings_mistake.cpp:8:9: error: cannot declare ‘::main’ to be a global variable
+ int main( //The other parenthesis is missing!
+         ^
+greetings_mistake.cpp:10:2: error: ‘cout’ was not declared in this scope
+  cout << "Greetings Earth!" << endl;
+  ^~~~
+greetings_mistake.cpp:10:2: note: suggested alternative:
+In file included from greetings_mistake.cpp:5:0:
+/usr/include/c++/7/iostream:61:18: note:   ‘std::cout’
+   extern ostream cout;  /// Linked to standard output
+                  ^~~~
+greetings_mistake.cpp:10:32: error: ‘endl’ was not declared in this scope
+  cout << "Greetings Earth!" << endl;
+                                ^~~~
+greetings_mistake.cpp:10:32: note: suggested alternative:
+In file included from /usr/include/c++/7/iostream:39:0,
+                 from greetings_mistake.cpp:5:
+/usr/include/c++/7/ostream:590:5: note:   ‘std::endl’
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^~~~
+greetings_mistake.cpp:10:36: error: expected ‘}’ before ‘;’ token
+  cout << "Greetings Earth!" << endl;
+                                    ^
+greetings_mistake.cpp:10:36: error: expected ‘)’ before ‘;’ token
+greetings_mistake.cpp:11:2: error: ‘cout’ does not name a type
+  cout << "Time for school!" << endl;
+  ^~~~
+greetings_mistake.cpp:12:2: error: ‘cout’ does not name a type
+  cout << "How much longer?" << endl;
+  ^~~~
+greetings_mistake.cpp:13:2: error: expected unqualified-id before ‘return’
+  return 0 //The semicolon at the end of "return 0;" is missing.
+  ^~~~~~
+greetings_mistake.cpp:14:1: error: expected declaration before ‘}’ token
+ }
+ ^
+[dderasmo@storm sep7]$ 

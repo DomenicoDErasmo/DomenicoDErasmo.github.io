@@ -1,0 +1,6 @@
+[dderasmo@storm Sep7]$ ./greetings
+Greetings Earth!
+Time for school!
+How much longer?
+[dderasmo@storm Sep7]$ 
+

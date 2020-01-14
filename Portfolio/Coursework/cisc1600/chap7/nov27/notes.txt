@@ -1,0 +1,31 @@
+Domenico D'Erasmo
+27 November 2017
+Chapter 7: Arrays
+
+Arrays act as a compaxct way of declaring many variables.
+
+Example Format:
+double grades[100] // The array "grades" has a double format and can hold 100 different values.
+
+The array will go up to the value declared minus one.
+Example: double grades[100] will store values from grades[0] to grades [99]
+
+Use an index to change the location for the array.
+Initialize arrays to some value before they are used!
+
+Example use of arrays:
+
+int index;
+double grades[100], dataCheck;
+
+
+for (index = 0; index < 100; index++) {
+	grades[index] = 0;
+	std::cout << "Enter a grade : ";
+	std::cin >> dataCheck;
+	if (dataCheck != -1) {
+		grades[index] = dataCheck;
+	} else {
+		break;
+	}
+}

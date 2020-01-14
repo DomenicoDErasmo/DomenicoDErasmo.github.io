@@ -1,0 +1,36 @@
+[dderasmo@storm Final]$ ./LabFinal2
+Enter a test score : 97
+Enter a student name : Kim
+Enter a test score : 55
+Enter a student name : Jen
+Enter a test score : 66
+Enter a student name : Matt
+Enter a test score : 46
+Enter a student name : Kyle
+Enter a test score : 94
+Enter a student name : Mark
+Enter a test score : 36
+Enter a student name : Bruce
+Enter a test score : -1
+The minimum score is 36, Bruce
+The maximum score is 97, Kim
+The average is 65.67
+Have a nice day!
+[dderasmo@storm Final]$ ./LabFinal2
+Enter a test score : 99
+Enter a student name : Melvin
+Enter a test score : 66
+Enter a student name : Kelvin
+Enter a test score : 88
+Enter a student name : Belvin
+Enter a test score : 47
+Enter a student name : Pelvin
+Enter a test score : 100
+Enter a student name : Dorcas
+Enter a test score : -1
+The minimum score is 47, Pelvin
+The maximum score is 100, Dorcas
+The average is 80.00
+Have a nice day!
+[dderasmo@storm Final]$ 
+
