@@ -1,0 +1,7 @@
+Toal Fact
+1
+purple
+crit_damage/move_speed/free
+0.1040/0.050
+0.0040
+_

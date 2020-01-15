@@ -1,0 +1,14 @@
+Kurozama Wataru
+5
+purple
+normal_attack/defense/free
+114/25
+4.41
+_
+Kurozama Wataru
+2
+blue
+health/crit_damage/free
+880/0.0500
+80
+_

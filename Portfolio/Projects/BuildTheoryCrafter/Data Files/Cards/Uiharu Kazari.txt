@@ -1,0 +1,49 @@
+Uiharu Kazari
+2
+blue
+attack/normal_defense/free
+44/50
+4
+_
+Uiharu Kazari
+30
+blue
+magic_defense/defense/free
+44/25
+4
+_
+Uiharu Kazari
+50
+gold
+magic_defense/defense/health/free
+114/25/1000
+4
+_
+Uiharu Kazari
+8
+gold
+science_attack/defense/health/free
+125/25/1000
+4.41
+_
+Uiharu Kazari
+40
+purple
+magic_defense/defense/free
+104/25
+4
+_
+Uiharu Kazari
+6
+purple
+science_attack/attack/free
+114/50
+4.41	
+_
+Uiharu Kazari
+5
+purple
+science_defense/science_attack/free
+104/55
+4
+_

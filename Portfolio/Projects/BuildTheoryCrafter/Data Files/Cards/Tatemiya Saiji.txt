@@ -1,0 +1,14 @@
+Tatemiya Saiji
+8
+gold
+magic_defense/magic_attack/attack/free
+114/55/50
+4
+_
+Tatemiya Saiji
+5
+purple
+normal_attack/magic_defense/free
+114/50
+4
+_

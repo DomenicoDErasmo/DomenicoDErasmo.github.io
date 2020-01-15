@@ -1,0 +1,7 @@
+Judgement Girl
+1
+purple
+crit_chance/free
+0.0208
+0.0008
+_

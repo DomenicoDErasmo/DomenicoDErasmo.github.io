@@ -1,0 +1,14 @@
+Sherry Cromwell
+2
+blue
+magic_attack/defense/free
+48/25
+4.41
+_
+Sherry Cromwell
+5
+purple
+health/magic_attack/free
+2080/55
+80
+_

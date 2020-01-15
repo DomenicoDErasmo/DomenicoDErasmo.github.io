@@ -1,0 +1,42 @@
+Mugino Shizuri
+2
+blue
+attack/crit_damage/free
+44/0.0500
+4
+_
+Mugino Shizuri
+3
+blue
+science_attack/normal_defense/free
+48/50
+4.41
+_
+Mugino Shizuri
+8
+gold
+health/crit_damage/attack/free
+2280/0.0500/50
+80
+_
+Mugino Shizuri
+7
+gold
+defense/science_defense/science_attack/free
+57/50/55
+2
+_
+Mugino Shizuri
+1
+green
+attack/science_attack
+24/55
+4
+_
+Mugino Shizuri
+5
+purple
+science_attack/science_defense/free
+114/50
+4.41
+_

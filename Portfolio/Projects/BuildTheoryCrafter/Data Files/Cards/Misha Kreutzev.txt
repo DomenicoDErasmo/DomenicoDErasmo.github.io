@@ -1,0 +1,35 @@
+Misha Kreutzev
+2
+blue
+crit_chance/health/free
+0.0088/1000
+0.0008
+_
+Misha Kreutzev
+3
+blue
+crit_damage/health/free
+0.0440/1000
+0.0040
+_
+Misha Kreutzev
+8
+gold
+defense/crit_chance/health/free
+57/0.0100/1000
+2
+_
+Misha Kreutzev
+1
+green
+crit_chance/magic_attack
+0.0048/55
+0.0008
+_
+Misha Kreutzev
+5
+purple
+magic_attack/health/free
+114/1000
+4.41
+_

@@ -1,0 +1,14 @@
+Kaitabi Hatsuya
+2
+blue
+health/attack/free
+880/50
+80
+_
+Kaitabi Hatsuya
+1
+green
+health/normal_defense
+480/50
+80
+_

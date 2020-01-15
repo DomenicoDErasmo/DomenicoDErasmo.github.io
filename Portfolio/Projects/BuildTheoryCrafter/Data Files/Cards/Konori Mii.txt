@@ -1,0 +1,14 @@
+Konori Mii
+8
+gold
+science_defense/attack/move_speed/free
+114/50/0.50
+4
+_
+Konori Mii
+5
+purple
+health/defense/free
+2080/25
+80
+_

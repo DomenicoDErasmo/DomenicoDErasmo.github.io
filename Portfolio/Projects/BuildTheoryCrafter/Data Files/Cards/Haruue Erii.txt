@@ -1,0 +1,14 @@
+Haruue Erii
+2
+blue
+defense/normal_defense
+22/50
+2
+_
+Haruue Erii
+1
+green
+science_defense/crit_damage
+24/0.0500
+4
+_

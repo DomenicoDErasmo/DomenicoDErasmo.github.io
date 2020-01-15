@@ -1,0 +1,14 @@
+Heaven Canceller
+2
+blue
+health_regen/health/free
+4.4/1000
+0.40
+_
+Heaven Canceller
+8
+gold
+health_regen/normal_attack/move_speed/free
+11.4/50/0.50
+0.40
+_

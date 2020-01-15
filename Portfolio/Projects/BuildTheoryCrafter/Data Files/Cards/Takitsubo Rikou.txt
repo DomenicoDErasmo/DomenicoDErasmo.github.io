@@ -1,0 +1,14 @@
+Takitsubo Rikou
+2
+blue
+crit_chance/normal_defense/free
+0.0088/50
+0.0008
+_
+Takitsubo Rikou
+1
+green
+crit_chance/crit_damage
+0.0048/0.0050
+0.0008
+_

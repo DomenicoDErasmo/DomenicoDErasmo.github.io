@@ -1,0 +1,70 @@
+Misaka Imouto
+2
+blue
+crit_damage/science_defense/free
+0.0440/50
+0.0040
+_
+Misaka Imouto
+30
+blue
+health/normal_attack/free
+880/55
+80
+_
+Misaka Imouto
+3
+blue
+normal_attack/crit_chance/free
+48/0.0100
+4.41
+_
+Misaka Imouto
+8
+gold
+attack/science_defense/health/free
+114/50/1000
+4
+_
+Misaka Imouto
+9
+gold
+crit_chance/attack/free/date
+0.0228/50
+0.0008
+_
+Misaka Imouto
+50
+gold
+health/normal_attack/crit_chance/free
+2280/55/0.0100
+80
+_
+Misaka Imouto
+1
+green
+crit_damage/science_defense
+0.0240/50
+0.0040
+_
+Misaka Imouto
+5
+purple
+attack/science_defense/free
+104/55
+4
+_
+Misaka Imouto
+6
+purple
+crit_chance/attack/free
+0.0208/50
+0.0008
+_
+Misaka Imouto
+40
+purple
+health/normal_attack/free
+2080/55
+80
+_

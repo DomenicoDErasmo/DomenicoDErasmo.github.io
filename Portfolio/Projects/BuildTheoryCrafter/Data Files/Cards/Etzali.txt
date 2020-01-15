@@ -1,0 +1,14 @@
+Etzali
+8
+gold
+magic_defense/attack/attack/free
+114/50/50
+4
+_
+Etzali
+5
+purple
+health/attack/free
+2080/50
+80
+_

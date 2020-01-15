@@ -1,0 +1,14 @@
+Matthai Reese
+8
+gold
+crit_damage/defense/health_regen/free
+0.1140/25/10.0
+0.0040
+_
+Matthai Reese
+5
+purple
+health_regen/health/free
+10.4/1000
+0.40
+_

@@ -1,0 +1,109 @@
+Domenico D'Erasmo
+31 December 2018
+List of cards to be parsed by the game
+
+Format:
+
+cardName
+rarity
+Stat 1/ Stat 2...
+_
+
+Google translate reference names:
+
+Imperial US Piano = Misaka Mikoto
+shirai Sunspot = Shirai Kuroko
+bacteria pedicle Cox = Index
+Angelina = Angelene
+ya DeGeneres = Agnese Sanctis
+Imperial sister = Misaka Imouto
+Lucia = Lucia
+Ole Europe Sri Lanka = Aureolus Izzard
+Austrian Sola = Orsola Aquinas
+Micha = Sasha Kreutzev
+history of tire = Stiyl Magnus
+Laura = Laura Stuart
+God split fire weave = Kanzaki Kaori
+soil Imperial door yuan spring = Tsuchimikado Motoharu
+on the article when MA = Kamijou Touma
+wind cut ice China = Kazakiri Hyouka
+Europe Leona = Oriana Thomson
+solid law US Wei = Konori Mei
+Shirley = Sherry Cromwell
+court taste every Magic = Yamisaka Ouma
+he Yaghi Europe = Bishop Biagio
+Matthew - Leith = Matthai Reese
+in front of the wind = Vento of the Front
+the rear of the water = Aqua of the Back
+the left side of the ground = Terra of the Left
+the right of fire = Fiamma of the Right
+one pass = Accelerator
+patio sub-male = Amai Ao
+Wood original the number of more than = Kihara Amata
+constant root Emperor Christ = Kakine Teitoku
+last for = Last Order
+$ surface Shi-on = Hamazura Shiage
+Junction standard light Greek = Musujime Awaki
+sea original light your (pseudo) = Etzali
+wheat field Shen Lee = Mugino Shizuri
+food Bee operating pray = Shokuhou Misaki
+cutting board Army Pa = Sogiita Gunha
+Fang river chair terrier = Yoshikawa Kikyou
+Wood primary fantasy health = Kihara Gensei
+and beam deflects letter = Nunotaba Shinobu
+Lai multi - Wei ya = Lidvia Lorenzetti
+Bell branch Yuriko = Yuriko
+Tyrese Tina = Therestina Kihara Lifeline
+a rich Haruki = Aritomi Haruki
+dog field lied = Komaba Ritoku
+black wife cotton flow = Kurozama Wataru
+snake Valley times male = Hebitani Tsuguo
+pot reason after = Takitsubo Rikou
+compiled flag favorites = Kinuhata Saiai
+Philippine cloth reason = Febrie
+Jenny = Janie
+five and = Itsuwa
+Kyi mysterious sand = Himegami Aisa
+month pulse small Meng = Tsukuyomi Komoe 
+deep soil Chase soul = Heaven Canceller
+on the article knife knight = Kamijou Touya
+on the article poetry dish = Kamijou Shiina
+Blue hair earrings = Aogami Pierce
+junior days tears child = Saten Ruiko
+on the Royal door dance summer = Tsuchimikado Maika
+their lives River = Yomikawa Aiho
+blow send system managaement = Fukiyose Seiri
+built Palace $ word = Tatemiya Saiji
+married photon = Kongou Mitsuko
+early spring ornaments Lee = Uiharu Kazari
+Bay compiled Paul = Wannai Kinuho
+also floating WAN bin = Awatsuki Maaya
+Flanda = Frenda Seivelun
+mediated trip early Vector = Kaitabi Hatsuya
+Hill original burn more = Okahara Ryouka
+iron installed level in = Tessou Tsuzuri
+branch first with reasonable = Edasaki Banri
+spring on Bell clothing = Haruue Erii
+heavy blessing province sail = Juufuku Miho
+Ray Emperor net a few = Ladylee Tangleroad
+Ming care Elisha = Meigo Arisa
+alert member = Anti-Skill Officer
+sweeping robot = Security Robot
+vending machine = Vending Machine
+small bully = Skill-Out Thug
+sead special aura = Shutaura Sequenzia
+House master = Dorm Manager
+discipline members = Judgement Girl
+
+Ys Characters
+sub-trou = Adol Christin
+Dana = Dana Iclucia
+FINA = Feena
+multi-odd = Sahad Nautilus
+cover repair = Geis
+love bud NA = Elena Stoddart
+Allen west = Ernst 
+Cain - method Kurt = Cain Fact
+Bud ya = Reah 
+Chester = Chester Stoddart
+Thor - method Kurt = Toal Fact

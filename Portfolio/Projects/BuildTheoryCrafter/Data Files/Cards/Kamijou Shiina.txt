@@ -1,0 +1,14 @@
+Kamijou Shiina
+2
+blue
+health/normal_attack/free
+880/55
+80
+_
+Kamijou Shiina
+1
+green
+health/health_regen
+480/5.0
+80
+_

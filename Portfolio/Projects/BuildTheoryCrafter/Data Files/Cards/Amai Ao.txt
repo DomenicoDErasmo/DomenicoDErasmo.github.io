@@ -1,0 +1,14 @@
+Amai Ao
+2
+blue
+normal_attack/defense/free
+26/55
+4.41
+_
+Amai Ao
+1
+green
+defense/science_defense
+12/50
+2
+_

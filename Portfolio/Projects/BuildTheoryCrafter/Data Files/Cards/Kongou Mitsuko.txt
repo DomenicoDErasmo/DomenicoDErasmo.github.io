@@ -1,0 +1,14 @@
+Kongou Mitsuko
+8
+gold
+science_attack/defense/health_regen/free
+125/25/5.0
+4.41
+_
+Kongou Mitsuko
+5
+purple
+science_defense/attack/free
+104/50
+4
+_

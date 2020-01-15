@@ -1,0 +1,14 @@
+Biagio
+2
+blue
+magic_attack/defense/free
+48/25
+4.41
+_
+Biagio
+5
+purple
+defense/attack/free
+52/50
+2
+_

@@ -1,0 +1,6 @@
+Reah
+gold
+crit_chance/attack/free/free
+0.0228/50
+0.0008
+_

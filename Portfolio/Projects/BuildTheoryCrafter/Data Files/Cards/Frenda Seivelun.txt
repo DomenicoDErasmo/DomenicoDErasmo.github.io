@@ -1,0 +1,35 @@
+Frenda Seivelun
+2
+blue
+health/attack/free
+880/50
+80
+_
+Frenda Seivelun
+30
+blue
+science_attack/attack/free
+48/50
+4.41
+_
+Frenda Seivelun
+50
+gold
+science_attack/attack/science_attack/free
+125/50/55
+4.41
+_
+Frenda Seivelun
+1
+green
+magic_defense/magic_defense
+24/50
+4
+_
+Frenda Seivelun
+40
+purple
+science_attack/attack/free
+114/50
+4.41
+_

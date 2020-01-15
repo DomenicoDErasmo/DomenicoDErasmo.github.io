@@ -1,0 +1,7 @@
+Anti-Skill Cop
+1
+purple
+crit_damage/free
+0.1040
+0.0040
+_

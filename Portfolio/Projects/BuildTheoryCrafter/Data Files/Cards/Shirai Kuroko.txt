@@ -1,0 +1,63 @@
+Shirai Kuroko
+2
+blue
+crit_chance/science_defense/free
+0.0088/50
+0.0008
+_
+Shirai Kuroko
+3
+blue
+science_attack/defense/free
+48/25
+4.41
+_
+Shirai Kuroko
+11
+gold
+crit_damage/attack/free/free
+0.1140/50
+0.0040
+_
+Shirai Kuroko
+10
+gold
+crit_chance/crit_damage/free/date
+0.02280/0.0500
+0.0008
+_
+Shirai Kuroko
+9
+gold
+move_speed/science_attack/magic_defense/free
+1.14/55/50
+0.04
+_
+Shirai Kuroko
+8
+gold
+defense/science_attack/attack/free
+57/55/50
+4
+_
+Shirai Kuroko
+1
+green
+magic_attack/health
+26/1000
+4.41
+_
+Shirai Kuroko
+6
+purple
+crit_chance/crit_damage/free
+0.0208/0.0500
+0.0008
+_
+Shirai Kuroko
+5
+purple
+science_attack/normal_defense/free
+114/50
+4.41
+_

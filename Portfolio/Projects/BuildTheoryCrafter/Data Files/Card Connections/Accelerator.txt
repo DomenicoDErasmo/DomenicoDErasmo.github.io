@@ -1,0 +1,41 @@
+Accelerator
+13
+Capacity destruction
+Accelerator/Amai Ao
+1.03
+Black wings
+Accelerator/Kihara Amata
+1.03
+First and Second
+Accelerator/Kakine Teitoku
+1.04
+Arrogant Laurie Controller
+Accelerator/Last Order
+1.05
+Cruel experiments
+Accelerator/Misaka Imouto
+1.05
+Who are you?
+Accelerator/Yuriko
+1.04
+One can't avoid one's enemy
+Accelerator/Kamijou Touma
+1.05
+Three heroes
+Accelerator/Hamazura Shiage/Kamijou Touma
+1.02
+Laurie Control and Laurie
+Accelerator/Index/Kamijou Touma/Last Order
+1.03
+group
+Accelerator/Etzali/Musujime Awaki/Tsuchimikado Motoharu
+1.03
+Level5 people
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+Absolute Ability Evolution
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+Twelve protagonists
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05

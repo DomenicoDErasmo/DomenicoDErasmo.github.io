@@ -1,0 +1,35 @@
+Nunotaba Shinobu
+30
+blue
+health/defense/free
+880/25
+80
+_
+Nunotaba Shinobu
+2
+blue
+normal_attack/health
+48/1000
+4.41
+_
+Nunotaba Shinobu
+50
+gold
+health/defense/attack/free
+2280/25/50
+80
+_
+Nunotaba Shinobu
+1
+green
+defense/attack
+12/50
+2
+_
+Nunotaba Shinobu
+40
+purple
+health/defense/free
+2080/25
+80
+_

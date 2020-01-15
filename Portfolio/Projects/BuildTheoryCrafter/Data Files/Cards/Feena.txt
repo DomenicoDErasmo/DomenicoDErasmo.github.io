@@ -1,0 +1,7 @@
+Feena
+1
+gold
+health/crit_chance/free/free
+2280/0.0100
+80
+_

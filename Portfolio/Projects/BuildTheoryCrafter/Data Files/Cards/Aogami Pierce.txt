@@ -1,0 +1,21 @@
+Aogami Pierce
+2
+blue
+crit_damage/science_defense/free
+0.0440/50
+0.0040
+_
+Aogami Pierce
+8
+gold
+crit_chance/health_regen/defense/free
+0.0228/5.0/25
+0.0008
+_
+Aogami Pierce
+5
+purple
+crit_chance/health/free
+0.0208/1000
+0.0008
+_

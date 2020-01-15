@@ -1,0 +1,7 @@
+Chester Stoddart
+1
+purple
+normal_attack/normal_attack/free
+114/55
+4.41
+_

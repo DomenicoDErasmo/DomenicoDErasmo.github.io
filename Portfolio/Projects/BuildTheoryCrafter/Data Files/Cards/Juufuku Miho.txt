@@ -1,0 +1,14 @@
+Juufuku Miho
+2
+blue
+normal_defense/science_attack/free
+44/55
+4
+_
+Juufuku Miho
+1
+green
+health/science_attack
+480/55
+80
+_

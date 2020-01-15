@@ -1,0 +1,7 @@
+Skill-Out Thug
+1
+purple
+attack/free
+104
+4
+_

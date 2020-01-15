@@ -1,0 +1,14 @@
+Hebitani Tsugou
+2
+blue
+attack/defense/free
+44/25
+4
+_
+Hebitani Tsugou
+1
+green
+normal_attack/normal_attack
+26/55
+4.41
+_

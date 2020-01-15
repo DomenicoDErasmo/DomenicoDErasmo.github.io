@@ -1,0 +1,35 @@
+Oriana Thomson
+3
+blue
+magic_defense/health_regen/free
+44/5.0
+4
+_
+Oriana Thomson
+2
+blue
+normal_defense/health/free
+44/1000
+4
+_
+Oriana Thomson
+1
+green
+normal_defense/crit_damage
+24/0.0500
+4
+_
+Oriana Thomson
+8
+gold
+attack/normal_defense/health/free
+114/50/1000
+4
+_
+Oriana Thomson
+5
+purple
+defense/magic_attack/free
+52/55
+2
+_

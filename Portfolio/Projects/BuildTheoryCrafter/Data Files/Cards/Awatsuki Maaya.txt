@@ -1,0 +1,7 @@
+Awatsuki Maaya
+1
+green
+science_attack/health
+26/1000
+4.41
+_

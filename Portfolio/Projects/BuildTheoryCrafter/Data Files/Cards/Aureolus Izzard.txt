@@ -1,0 +1,14 @@
+Aureolus Izzard
+2
+blue
+attack/defense/free
+44/25
+4
+_
+Aureolus Izzard
+5
+purple
+normal_defense/attack/free
+104/50
+4
+_

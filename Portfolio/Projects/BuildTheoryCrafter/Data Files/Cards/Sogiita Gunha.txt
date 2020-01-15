@@ -1,0 +1,14 @@
+Sogiita Gunha
+8
+gold
+science_defense/attack/crit_damage/free
+114/50/0.0500
+4
+_
+Sogiita Gunha
+5
+purple
+attack/health/free
+104/1000
+4
+_

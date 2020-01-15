@@ -1,0 +1,48 @@
+Stiyl Magnus
+2
+blue
+attack/magic_defense/free
+44/50
+4
+_
+Stiyl Magnus
+3
+blue
+magic_attack/magic_attack/free
+48/55
+4.41
+_
+Stiyl Magnus
+9
+gold
+attack/magic_attack/free/date
+114/55
+_
+Stiyl Magnus
+8
+gold
+crit_damage/magic_defense/health/free
+0.1140/50/1000
+0.0040
+_
+Stiyl Magnus
+1
+green
+attack/magic_attack/free
+24/55
+4
+_
+Stiyl Magnus
+6
+purple
+attack/magic_attack/free
+104/55
+4
+_
+Stiyl Magnus
+5
+purple
+attack/magic_defense/free
+104/50
+4
+_

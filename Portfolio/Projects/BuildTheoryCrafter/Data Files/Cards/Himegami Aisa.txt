@@ -1,0 +1,35 @@
+Himegami Aisa
+2
+blue
+magic_defense/magic_attack/free
+44/55
+4
+_
+Himegami Aisa
+8
+gold
+health/attack/defense/free
+2280/50/25
+80
+_
+Himegami Aisa
+8
+gold
+normal_attack/magic_defense/defense/free
+125/50/25
+4.41
+_
+Himegami Aisa
+1
+green
+health/attack
+480/50
+80
+_
+Himegami Aisa
+5
+purple
+magic_defense/normal_attack/free
+104/55
+4
+_

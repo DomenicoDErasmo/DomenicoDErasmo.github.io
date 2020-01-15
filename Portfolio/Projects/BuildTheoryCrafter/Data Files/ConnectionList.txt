@@ -1,0 +1,1198 @@
+Accelerator
+13
+Accelerator/Amai Ao
+1.03
+Accelerator/Kihara Amata
+1.03
+Accelerator/Kakine Teitoku
+1.04
+Accelerator/Last Order
+1.05
+Accelerator/Misaka Imouto
+1.05
+Accelerator/Yuriko
+1.04
+Accelerator/Kamijou Touma
+1.05
+Accelerator/Hamazura Shiage/Kamijou Touma
+1.02
+Accelerator/Index/Kamijou Touma/Last Order
+1.03
+Accelerator/Etzali/Musujime Awaki/Tsuchimikado Motoharu
+1.03
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Adol Christin
+6
+Adol Christin/Dana Iclucia
+1.05
+Adol Christin/Sahad Nautilus
+1.05
+Adol Christin/Feena
+1.05
+Adol Christin/Geis
+1.04
+Adol Christin/Elena Stoddart
+1.03
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Agnese Sanctis
+8
+Agnese Sanctis/Biagio
+1.04
+Agnese Sanctis/Orsola Aquinas
+1.03
+Agnese Sanctis/Lucia
+1.05
+Agnese Sanctis/Angelene
+1.05
+Agnese Sanctis/Angelene/Lucia
+1.05
+Agnese Sanctis/Angelene/Aureolus Izzard/Lucia/Orsola Aquinas
+1.03
+Agnese Sanctis/Angelene/Index/Misaka Imouto/Misaka Mikoto/Shirai Kuroko
+1.04
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+_
+Amai Ao
+4
+Accelerator/Amai Ao
+1.03
+Amai Ao/Yoshikawa Kikyou
+1.04
+Amai Ao/Heaven Canceller/Kihara Gensei/Kiyama Harumi/Nunotaba Shinobu/Yoshikawa Kikyou
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+_
+Angelene
+6
+Angelene/Lucia
+1.05
+Agnese Sanctis/Angelene
+1.05
+Agnese Sanctis/Angelene/Lucia
+1.02
+Agnese Sanctis/Angelene/Aureolus Izzard/Lucia/Orsola Aquinas
+1.03
+Agnese Sanctis/Angelene/Index/Misaka Imouto/Misaka Mikoto/Shirai Kuroko
+1.04
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+_
+Aleister Crowley
+5
+Aleister Crowley/Kazakiri Hyouka
+1.04
+Aleister Crowley/Kihara Amata
+1.04
+Aleister Crowley/Heaven Canceller
+1.04
+Aleister Crowley/Fiamma of the Right
+1.04
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Anti-Skill Officer
+0
+_
+Aogami Pierce
+5
+Aogami Pierce/Konori Mii
+1.03
+Aogami Pierce/Tsuchimikado Motoharu
+1.04
+Aogami Pierce/Kamijou Touma/Tsuchimikado Motoharu
+1.02
+Aogami Pierce/Index/Kamijou Touma/Kamijou Touya/Misaka Mikoto
+1.03
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+_
+Aritomi Haruki
+3
+Aritomi Haruki/Kihara Gensei
+1.03
+Aritomi Haruki/Nunotaba Shinobu
+1.03
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Aqua of the Back
+5
+Aqua of the Back/Itsuwa
+1.03
+Aqua of the Back/Vento of the Front
+1.04
+Aqua of the Back/Sasha Kreutzev
+1.04
+Aqua of the Back/Fiamma of the Right/Terra of the Left/Vento of the Front
+1.03
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+_
+Aureolus Izzard
+2
+Aureolus Izzard/Index
+1.03
+Agnese Sanctis/Angelene/Aureolus Izzard/Lucia/Orsola Aquinas
+1.03
+_
+Awatsuki Maaya
+4
+Awatsuki Maaya/Wannai Kinuho
+1.04
+Awatsuki Maaya/Kongou Mitsuko/Wannai Kinuho
+1.02
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Biagio
+2
+Agnese Sanctis/Biagio
+1.04
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+_
+Cain Fact
+5
+Cain Fact/Feena
+1.02
+Cain Fact/Toal Fact
+1.04
+Cain Fact/Reah
+1.02
+Cain Fact/Feena/Reah/Toal Fact
+1.03
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Chester Stoddart
+4
+Chester Stoddart/Sahad Nautilus
+1.04
+Chester Stoddart/Elena Stoddart
+1.04
+Chester Stoddart/Elena Stoddart/Sahad Nautilus
+1.02
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Dana Iclucia
+3
+Adol Christin/Dana Iclucia
+1.05
+Dana Iclucia/Elena Stoddart/Feena/Geis/Reah/Sahad Nautilus
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Dorm Manager
+2
+Dorm Manager/Shirai Kuroko
+1.04
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+_
+Edasaki Banri
+2
+Edasaki Banri/Kiyama Harumi
+1.04
+Edasaki Banri/Haruue Erii
+1.04
+_
+Elena Stoddart
+6
+Chester Stoddart/Elena Stoddart
+1.04
+Adol Christin/Elena Stoddart
+1.03
+Elena Stoddart/Sahad Nautilus
+1.03
+Chester Stoddart/Elena Stoddart/Sahad Nautilus
+1.02
+Dana Iclucia/Elena Stoddart/Feena/Geis/Reah/Sahad Nautilus
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Ernst
+2
+Ernst/Geis
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+
+_
+Etzali
+2
+Etzali/Misaka Mikoto
+1.03
+Accelerator/Etzali/Musujime Awaki/Tsuchimikado Motoharu
+1.03
+_
+Febrie
+3
+Febrie/Saten Ruiko
+1.04
+Febrie/Janie
+1.05
+Febrie/Janie/Last Order/Misaka Imouto
+1.03
+_
+Feena
+6
+Adol Christin/Feena
+1.05
+Feena/Reah
+1.05
+Cain Fact/Feena
+1.02
+Cain Fact/Feena/Reah/Toal Fact
+1.03
+Dana Iclucia/Elena Stoddart/Feena/Geis/Reah/Sahad Nautilus
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Fiamma of the Right
+4
+Fiamma of the Right/Terra of the Left
+1.04
+Aleister Crowley/Fiamma of the Right
+1.04
+Aqua of the Back/Fiamma of the Right/Terra of the Left/Vento of the Front
+1.03
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+_
+Frenda Seivelun
+3
+Frenda Seivelun/Mugino Shizuri
+1.04
+Frenda Seivelun/Saten Ruiko
+1.02
+Frenda Seivelun/Kinuhata Saiai/Mugino Shizuri/Takitsubo Rikou
+1.03
+_
+Fukiyose Seiri
+3
+Fukiyose Seiri/Himegami Aisa
+1.02
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Geis
+4
+Adol Christin/Geis
+1.04
+Ernst/Geis
+1.04
+Dana Iclucia/Elena Stoddart/Feena/Geis/Reah/Sahad Nautilus
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Hamazura Shiage
+8
+Hamazura Shiage/Kamijou Touma
+1.03
+Hamazura Shiage/Komaba Ritoku
+1.03
+Hamazura Shiage/Yomikawa Aiho
+1.04
+Hamazura Shiage/Takitsubo Rikou
+1.05
+Hamazura Shiage/Misaka Misuzu
+1.03
+Hamazura Shiage/Mugino Shizuri
+1.04
+Accelerator/Hamazura Shiage/Kamijou Touma
+1.02
+Hamazura Shiage/Kamijou Touma/Saten Ruiko/Tsuchimikado Maika
+1.03
+_
+Haruue Erii
+1
+Edasaki Banri/Haruue Erii
+1.04
+_
+Heaven Canceller
+3
+Heaven Canceller/Kamijou Touma
+1.04
+Aleister Crowley/Heaven Canceller
+1.04
+Amai Ao/Heaven Canceller/Kihara Gensei/Kiyama Harumi/Nunotaba Shinobu/Yoshikawa Kikyou
+1.03
+_
+Hebitani Tsuguo
+3
+Hebitani Tsuguo/Kurozama Wataru
+1.03
+Hebitani Tsuguo/Konori Mii/Kurozama Wataru
+1.02
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Himegami Aisa
+6
+Himegami Aisa/Oriana Thomson
+1.03
+Himegami Aisa/Index
+1.02
+Himegami Aisa/Kamijou Touma
+1.04
+Fukiyose Seiri/Himegami Aisa
+1.04
+Himegami Aisa/Tsukuyomi Komoe
+1.05
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+_
+Index
+16
+Aureolus Izzard/Index
+1.03
+Himegami Aisa/Index
+1.02
+Index/Kamijou Touma
+1.05
+Index/Itsuwa
+1.04
+Index/Yamisaka Ouma
+1.02
+Index/Kazakiri Hyouka
+1.05
+Index/Stiyl Magnus
+1.04
+Index/Kanzaki Kaori
+1.04
+Index/Kanzaki Kaori/Sasha Kreutzev
+1.02
+Index/Kamijou Touma/Misaka Mikoto
+1.02
+Index/Itsuwa/Misaka Mikoto
+1.02
+Accelerator/Index/Kamijou Touma/Last Order
+1.03
+Aogami Pierce/Index/Kamijou Touma/Kamijou Touya/Misaka Mikoto
+1.03
+Agnese Sanctis/Angelene/Index/Misaka Imouto/Misaka Mikoto/Shirai Kuroko
+1.04
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Itsuwa
+9
+Itsuwa/Kamijou Touma
+1.04
+Itsuwa/Tatemiya Saiji
+1.03
+Aqua of the Back/Itsuwa
+1.03
+Itsuwa/Terra of the Left
+1.03
+Index/Itsuwa
+1.04
+Itsuwa/Kanzaki Kaori/Tatemiya Saiji
+1.02
+Index/Itsuwa/Misaka Mikoto
+1.02
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Janie
+2
+Febrie/Janie
+1.05
+Febrie/Janie/Last Order/Misaka Imouto
+1.03
+_
+Judgement Girl
+0
+_
+Juufuku Miho
+1
+Juufuku Miho/Saten Ruiko
+1.03
+_
+Kaitabi Hatsuya
+1
+Kaitabi Hatsuya/Sogiita Gunha
+1.03
+_
+Kakine Teitoku
+4
+Kakine Teitoku/Takitsubo Rikou
+1.03
+Kakine Teitoku/Kinuhata Saiai
+1.03
+Accelerator/Kakine Teitoku
+1.04
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Kamijou Shiina
+3
+Kamijou Shiina/Kamijou Touya
+1.05
+Kamijou Shiina/Misaka Misuzu
+1.04
+Kamijou Shiina/Kamijou Touma/Kamijou Touya
+1.02
+_
+Kamijou Touma
+24
+Itsuwa/Kamijou Touma
+1.04
+Himegami Aisa/Kamijou Touma
+1.04
+Kamijou Touma/Misaka Imouto
+1.04
+Hamazura Shiage/Kamijou Touma
+1.03
+Kamijou Touma/Yuriko
+1.03
+Kamijou Touma/Misaka Mikoto
+1.05
+Accelerator/Kamijou Touma
+1.05
+Kamijou Touma/Kanzaki Kaori
+1.03
+Kamijou Touma/Oriana Thomson
+1.02
+Kamijou Touma/Stiyl Magnus
+1.04
+Kamijou Touma/Tsukuyomi Komoe
+1.04
+Heaven Canceller/Kamijou Touma
+1.04
+Kamijou Touma/Sasha Kreutzev
+1.03
+Kamijou Touma/Shokuhou Misaki
+1.05
+Index/Kamijou Touma
+1.05
+Kamijou Touma/Kamijou Touya/Kamijou Shiina
+1.02
+Accelerator/Hamazura Shiage/Kamijou Touma
+1.02
+Index/Kamijou Touma/Misaka Mikoto
+1.02
+Aogami Pierce/Kamijou Touma/Tsuchimikado Motoharu
+1.02
+Accelerator/Index/Kamijou Touma/Last Order
+1.03
+Hamazura Shiage/Kamijou Touma/Saten Ruiko/Tsuchimikado Maika
+1.03
+Aogami Pierce/Index/Kamijou Touma/Kamijou Touya/Misaka Mikoto
+1.03
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Kamijou Touya
+3
+Kamijou Shiina/Kamijou Touya
+1.05
+Kamijou Shiina/Kamijou Touma/Kamijou Touya
+1.02
+Aogami Pierce/Index/Kamijou Touma/Kamijou Touya/Misaka Mikoto
+1.03
+_
+Kanzaki Kaori
+14
+Kanzaki Kaori/Laura Stuart
+1.03
+Kanzaki Kaori/Tatemiya Saiji
+1.04
+Kanzaki Kaori/Tsuchimikado Motoharu
+1.03
+Kamijou Touma/Kanzaki Kaori
+1.03
+Kanzaki Kaori/Stiyl Magnus
+1.05
+Index/Kanzaki Kaori
+1.04
+Itsuwa/Kanzaki Kaori/Tatemiya Saiji
+1.02
+Index/Kanzaki Kaori/Sasha Kreutzev
+1.02
+Kanzaki Kaori/Kazakiri Hyouka/Konori Mii/Oriana Thomson
+1.03
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Kazakiri Hyouka
+7
+Aleister Crowley/Kazakiri Hyouka
+1.04
+Kazakiri Hyouka/Sherry Cromwell
+1.03
+Kazakiri Hyouka/Sasha Kreutzev
+1.03
+Kazakiri Hyouka/Misaka Imouto
+1.03
+Kazakiri Hyouka/Last Order
+1.05
+Index/Kazakiri Hyouka
+1.05
+Kanzaki Kaori/Kazakiri Hyouka/Konori Mii/Oriana Thomson
+1.03
+_
+Kihara Amata
+5
+Aleister Crowley/Kihara Amata
+1.04
+Accelerator/Kihara Amata
+1.03
+Kihara Amata/Kihara Gensei/Therestina Kihara Lifeline
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Kihara Gensei
+5
+Aritomi Haruki/Kihara Gensei
+1.03
+Kihara Gensei/Therestina Kihara Lifeline
+1.04
+Kihara Amata/ Kihara Gensei/Therestina Kihara Lifeline
+1.03
+Amai Ao/Heaven Canceller/Kihara Gensei/Kiyama Harumi/Nunotaba Shinobu/Yoshikawa Kikyou
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+
+_
+Kinuhata Saiai
+3
+Kinuhata Saiai/Takitsubo Rikou
+1.04
+Kakine Teitoku/Kinuhata Saiai
+1.03
+Frenda Seivelun/Kinuhata Saiai/Mugino Shizuri/Takitsubo Rikou
+1.03
+_
+Kiyama Harumi
+3
+Edasaki Banri/Kiyama Harumi
+1.04
+Kiyama Harumi/Tessou Tsuzuri/Tsukuyomi Komoe/Yomikawa Aiho
+1.03
+Amai Ao/Heaven Canceller/Kihara Gensei/Kiyama Harumi/Nunotaba Shinobu/Yoshikawa Kikyou
+1.03
+_
+Komaba Ritoku
+3
+Komaba Ritoku/Musujime Awaki
+1.04
+Hamazura Shiage/Komaba Ritoku
+1.03
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Kongou Mitsuko
+5
+Kongou Mitsuko/Shirai Kuroko
+1.03
+Kongou Mitsuko/Misaka Mikoto
+1.03
+Awatsuki Maaya/Kongou Mitsuko/Wannai Kinuho
+1.02
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Konori Mii
+6
+Konori Mii/Kurozama Wataru
+1.05
+Aogami Pierce/Konori Mii
+1.03
+Konori Mii/Shirai Kuroko/Uiharu Kazari
+1.02
+Hebitani Tsuguo/Konori Mii/Kurozama Wataru
+1.02
+Kanzaki Kaori/Kazakiri Hyouka/Konori Mii/Oriana Thomson
+1.03
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+
+_
+Kurozama Wataru
+4
+Konori Mii/Kurozama Wataru
+1.05
+Hebitani Tsuguo/Kurozama Wataru
+1.03
+Hebitani Tsuguo/Konori Mii/Kurozama Wataru
+1.02
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Ladylee Tangleroad
+1
+Ladylee Tangleroad/Meigo Arisa
+1.04
+_
+Last Order
+7
+Accelerator/Last Order
+1.05
+Last Order/Misaka Imouto
+1.05
+Kazakiri Hyouka/Last Order
+1.05
+Last Order/Misaka Imouto/Misaka Mikoto
+1.02
+Accelerator/Index/Kamijou Touma/Last Order
+1.03
+Febrie/Janie/Last Order/Misaka Imouto
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+_
+Laura Stuart
+6
+Laura Stuart/Stiyl Magnus
+1.03
+Kanzaki Kaori/Laura Stuart
+1.03
+Laura Stuart/Lidvia Lorenzetti
+1.04
+Laura Stuart/Matthai Reese
+1.04
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Lucia
+6
+Angelene/Lucia
+1.05
+Agnese Sanctis/Lucia
+1.05
+Agnese Sanctis/Angelene/Lucia
+1.02
+Agnese Sanctis/Angelene/Aureolus Izzard/Lucia/Orsola Aquinas
+1.03
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Lidvia Lorenzetti
+3
+Laura Stuart/Lidvia Lorenzetti
+1.04
+Lidvia Lorenzetti/Oriana Thomson
+1.04
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+_
+Matthai Reese
+4
+Matthai Reese/Vento of the Front
+1.03
+Laura Stuart/Matthai Reese
+1.04
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+_
+Meigo Arisa
+2
+Ladylee Tangleroad/Meigo Arisa
+1.04
+Meigo Arisa/Shutaura Sequenzia
+1.05
+_
+Misaka Imouto
+11
+Misaka Imouto/Misaka Mikoto
+1.05
+Kazakiri Hyouka/Misaka Imouto
+1.03
+Accelerator/Misaka Imouto
+1.05
+Last Order/Misaka Imouto
+1.05
+Misaka Imouto/Sogiita Gunha
+1.04
+Kamijou Touma/Misaka Imouto
+1.04
+Last Order/Misaka Imouto/Misaka Mikoto
+1.02
+Febrie/Janie/Last Order/Misaka Imouto
+1.03
+Agnese Sanctis/Angelene/Index/Misaka Imouto/Misaka Mikoto/Shirai Kuroko
+1.04
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Misaka Mikoto
+17
+Misaka Mikoto/Shirai Kuroko
+1.05
+Misaka Imouto/Misaka Mikoto
+1.05
+Etzali/Misaka Mikoto
+1.03
+Misaka Mikoto/Misaka Misuzu
+1.04
+Kongou Mitsuko/Misaka Mikoto
+1.03
+Misaka Mikoto/Shokuhou Misaki
+1.02
+Misaka Mikoto/Mugino Shizuri
+1.03
+Kamijou Touma/Misaka Mikoto
+1.05
+Last Order/Misaka Imouto/Misaka Mikoto
+1.02
+Index/Kamijou Touma/Misaka Mikoto
+1.02
+Index/Itsuwa/Misaka Mikoto
+1.02
+Misaka Mikoto/Saten Ruiko/Shirai Kuroko/Uiharu Kazari
+1.03
+Aogami Pierce/Index/Kamijou Touma/Kamijou Touya/Misaka Mikoto
+1.03
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+Agnese Sanctis/Angelene/Index/Misaka Imouto/Misaka Mikoto/Shirai Kuroko
+1.04
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Misaka Misuzu
+4
+Hamazura Shiage/Misaka Misuzu
+1.03
+Misaka Mikoto/Misaka Misuzu
+1.04
+Kamijou Shiina/Misaka Misuzu
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.04
+_
+Mugino Shizuri
+7
+Misaka Mikoto/Mugino Shizuri
+1.03
+Frenda Seivelun/Mugino Shizuri
+1.04
+Hamazura Shiage/Mugino Shizuri
+1.04
+Frenda Seivelun/Kinuhata Saiai/Mugino Shizuri/Takitsubo Rikou
+1.03
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+Aleister Crowley/Aritomi Haruki/Hebitani Tsuguo/Kakine Teitoku/Kanzaki Kaori/Kihara Amata/Komaba Ritoku/Kurozama Wataru/Laura Stuart/Matthai Reese/Mugino Shizuri
+1.05
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Musujime Awaki
+4
+Komaba Ritoku/Musujime Awaki
+1.04
+Musujime Awaki/Tsukuyomi Komoe
+1.05
+Accelerator/Etzali/Musujime Awaki/Tsuchimikado Motoharu
+1.03
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Nunotaba Shinobu
+3
+Aritomi Haruki/Nunotaba Shinobu
+1.03
+Amai Ao/Heaven Canceller/Kihara Gensei/Kiyama Harumi/Nunotaba Shinobu/Yoshikawa Kikyou
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+_
+Okahara Ryouka
+1
+Okahara Ryouka/Shirai Kuroko
+1.03
+_
+Oriana Thomson
+7
+Lidvia Lorenzetti/Oriana Thomson
+1.04
+Himegami Aisa/Oriana Thomson
+1.03
+Oriana Thomson/Sherry Cromwell
+1.04
+Kamijou Touma/Oriana Thomson
+1.02
+Kanzaki Kaori/Kazakiri Hyouka/Konori Mii/Oriana Thomson
+1.03
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Orsola Aquinas
+4
+Agnese Sanctis/Orsola Aquinas
+1.03
+Orsola Aquinas/Sherry Cromwell
+1.04
+Agnese Sanctis/Angelene/Aureolus Izzard/Lucia/Orsola Aquinas
+1.03
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+_
+Reah
+6
+Feena/Reah
+1.05
+Reah/Toal Fact
+1.05
+Cain Fact/Reah
+1.02
+Cain Fact/Feena/Reah/Toal Fact
+1.03
+Dana Iclucia/Elena Stoddart/Feena/Geis/Reah/Sahad Nautilus
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Sahad Nautilus
+6
+Adol Christin/Sahad Nautilus
+1.05
+Chester Stoddart/Sahad Nautilus
+1.04
+Elena Stoddart/Sahad Nautilus
+1.03
+Chester Stoddart/Elena Stoddart/Sahad Nautilus
+1.02
+Dana Iclucia/Elena Stoddart/Feena/Geis/Reah/Sahad Nautilus
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Sasha Kreutzev
+6
+Kazakiri Hyouka/Sasha Kreutzev
+1.03
+Sasha Kreutzev/Vento of the Front
+1.04
+Aqua of the Back/Sasha Kreutzev
+1.04
+Kamijou Touma/Sasha Kreutzev
+1.03
+Index/Kanzaki Kaori/Sasha Kreutzev
+1.02
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+_
+Saten Ruiko
+6
+Juufuku Miho/Saten Ruiko
+1.03
+Febrie/Saten Ruiko
+1.04
+Frenda Seivelun/Saten Ruiko
+1.02
+Saten Ruiko/Uiharu Kazari
+1.05
+Hamazura Shiage/Kamijou Touma/Saten Ruiko/Tsuchimikado Maika
+1.03
+Misaka Mikoto/Saten Ruiko/Shirai Kuroko/Uiharu Kazari
+1.03
+_
+Security Robot
+0
+_
+Sherry Cromwell
+5
+Orsola Aquinas/Sherry Cromwell
+1.04
+Oriana Thomson/Sherry Cromwell
+1.04
+Kazakiri Hyouka/Sherry Cromwell
+1.03
+Agnese Sanctis/Angelene/Kanzaki Kaori/Lucia/Orsola Aquinas/Sasha Kreutzev/Sherry Cromwell
+1.04
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+_
+Shirai Kuroko
+10
+Misaka Mikoto/Shirai Kuroko
+1.05
+Kongou Mitsuko/Shirai Kuroko
+1.03
+Shirai Kuroko/Uiharu Kazari
+1.05
+Dorm Manager/Shirai Kuroko
+1.04
+Okahara Ryouka/Shirai Kuroko
+1.03
+Konori Mii/Shirai Kuroko/Uiharu Kazari
+1.02
+Misaka Mikoto/Saten Ruiko/Shirai Kuroko/Uiharu Kazari
+1.03
+Agnese Sanctis/Angelene/Index/Misaka Imouto/Misaka Mikoto/Shirai Kuroko
+1.04
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Shokuhou Misaki
+5
+Misaka Mikoto/Shokuhou Misaki
+1.02
+Kamijou Touma/Shokuhou Misaki
+1.05
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Shutaura Sequenzia
+1
+Meigo Arisa/Shutaura Sequenzia
+1.05
+_
+Skill-Out Thug
+0
+_
+Sogiita Gunha
+3
+Misaka Imouto/Sogiita Gunha
+1.04
+Kaitabi Hatsuya/Sogiita Gunha
+1.03
+Accelerator/Kakine Teitoku/Misaka Mikoto/Mugino Shizuri/Shokuhou Misaki/Sogiita Gunha
+1.03
+_
+Stiyl Magnus
+7
+Laura Stuart/Stiyl Magnus
+1.03
+Stiyl Magnus/Tsukuyomi Komoe
+1.04
+Kanzaki Kaori/Stiyl Magnus
+1.05
+Kamijou Touma/Stiyl Magnus
+1.04
+Index/Stiyl Magnus
+1.04
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Takitsubo Rikou
+4
+Kakine Teitoku/Takitsubo Rikou
+1.03
+Kinuhata Saiai/Takitsubo Rikou
+1.04
+Hamazura Shiage/Takitsubo Rikou
+1.05
+Frenda Seivelun/Kinuhata Saiai/Mugino Shizuri/Takitsubo Rikou
+1.03
+_
+Tatemiya Saiji
+4
+Itsuwa/Tatemiya Saiji
+1.03
+Kanzaki Kaori/Tatemiya Saiji
+1.04
+Kanzaki Kaori/Itsuwa/Tatemiya Saiji
+1.02
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+_
+Terra of the Left
+4
+Itsuwa/Terra of the Left
+1.03
+Fiamma of the Right/Terra of the Left
+1.04
+Aqua of the Back/Fiamma of the Right/Terra of the Left/Vento of the Front
+1.03
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+_
+Tessou Tsuzuri
+2
+Tessou Tsuzuri/Yomikawa Aiho
+1.04
+Kiyama Harumi/Tessou Tsuzuri/Tsukuyomi Komoe/Yomikawa Aiho
+1.03
+_
+Therestina Kihara Lifeline
+3
+Kihara Gensei/Therestina Kihara Lifeline
+1.04
+Kihara Amata/Kihara Gensei/Therestina Kihara Lifeline
+1.03
+_
+Toal Fact
+4
+Cain Fact/Toal Fact
+1.04
+Reah/Toal Fact
+1.05
+Cain Fact/Feena/Reah/Toal Fact
+1.04
+Adol Christin/Cain Fact/Chester Stoddart/Dana Iclucia/Elena Stoddart/Ernst/Feena/Geis/Reah/Sahad Nautilus/Toal Fact
+1.05
+_
+Tsuchimikado Maika
+2
+Tsuchimikado Maika/Tsuchimikado Motoharu
+1.05
+Hamazura Shiage/Kamijou Touma/Saten Ruiko/Tsuchimikado Maika
+1.03
+_
+Tsuchimikado Motoharu
+8
+Kanzaki Kaori/Tsuchimikado Motoharu
+1.03
+Aogami Pierce/Tsuchimikado Motoharu
+1.04
+Tsuchimikado Maika/Tsuchimikado Motoharu
+1.05
+Aogami Pierce/Kamijou Touma/Tsuchimikado Motoharu
+1.02
+Accelerator/Etzali/Musujime Awaki/Tsuchimikado Motoharu
+1.03
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+Index/Itsuwa/Kanzaki Kaori/Laura Stuart/Sherry Cromwell/Stiyl Magnus/Tatemiya Saiji/Tsuchimikado Motoharu
+1.04
+Accelerator/Index/Kamijou Touma/Kanzaki Kaori/Misaka Imouto/Misaka Mikoto/Mugino Shizuri/Musujime Awaki/Oriana Thomson/Shirai Kuroko/Stiyl Magnus/Tsuchimikado Motoharu
+1.05
+_
+Tsukuyomi Komoe
+6
+Stiyl Magnus/Tsukuyomi Komoe
+1.04
+Himegami Aisa/Tsukuyomi Komoe
+1.05
+Kamijou Touma/Tsukuyomi Komoe
+1.04
+Musujime Awaki/Tsukuyomi Komoe
+1.05
+Kiyama Harumi/Tessou Tsuzuri/Tsukuyomi Komoe/Yomikawa Aiho
+1.03
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+_
+Uiharu Kazari
+4
+Saten Ruiko/Uiharu Kazari
+1.05
+Shirai Kuroko/Uiharu Kazari
+1.05
+Konori Mii/Shirai Kuroko/Uiharu Kazari
+1.02
+Misaka Mikoto/Saten Ruiko/Shirai Kuroko/Uiharu Kazari
+1.03
+_
+Vending Machine
+0
+_
+Vento of the Front
+5
+Sasha Kreutzev/Vento of the Front
+1.04
+Aqua of the Back/Vento of the Front
+1.04
+Matthai Reese/Vento of the Front
+1.03
+Aqua of the Back/Fiamma of the Right/Terra of the Left/Vento of the Front
+1.03
+Aqua of the Back/Biagio/Fiamma of the Right/Lidvia Lorenzetti/Matthai Reese/Terra of the Left/Vento of the Front
+1.04
+_
+Wannai Kinuho
+4
+Awatsuki Maaya/Wannai Kinuho
+1.04
+Awatsuki Maaya/Kongou Mitsuko/Wannai Kinuho
+1.02
+Awatsuki Maaya/Dorm Manager/Kongou Mitsuko/Misaka Mikoto/Shirai Kuroko/Shokuhou Misaki/Wannai Kinuho
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Yamisaka Ouma
+1
+Index/Yamisaka Ouma
+1.02
+_
+Yomikawa Aiho
+6
+Hamazura Shiage/Yomikawa Aiho
+1.04
+Tessou Tsuzuri/Yomikawa Aiho
+1.04
+Yomikawa Aiho/Yoshikawa Kikyou
+1.04	
+Kiyama Harumi/Tessou Tsuzuri/Tsukuyomi Komoe/Yomikawa Aiho
+1.03
+Aogami Pierce/Fukiyose Seiri/Himegami Aisa/Kamijou Touma/Tsuchimikado Motoharu/Tsukuyomi Komoe/Yomikawa Aiho
+1.04
+Awatsuki Maaya/Fukiyose Seiri/Itsuwa/Kanzaki Kaori/Kongou Mitsuko/Konori Mii/Lucia/Misaka Misuzu/Oriana Thomson/Shokuhou Misaki/Wannai Kinuho/Yomikawa Aiho
+1.05
+_
+Yoshikawa Kikyou
+4
+Yomikawa Aiho/Yoshikawa Kikyou
+1.04
+Amai Ao/Yoshikawa Kikyou
+1.04
+Amai Ao/Heaven Canceller/Kihara Gensei/Kiyama Harumi/Nunotaba Shinobu/Yoshikawa Kikyou
+1.03
+Accelerator/Amai Ao/Kihara Amata/Kihara Gensei/Last Order/Misaka Imouto/Nunotaba Shinobu/Yoshikawa Kikyou
+1.04
+_

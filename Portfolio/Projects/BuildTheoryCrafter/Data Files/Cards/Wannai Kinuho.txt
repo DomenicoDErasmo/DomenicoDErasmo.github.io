@@ -1,0 +1,6 @@
+Wannai Kinuho
+blue
+health/science_attack/free
+880/55
+80
+_

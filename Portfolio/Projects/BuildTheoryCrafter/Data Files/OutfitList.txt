@@ -1,0 +1,261 @@
+Accelerator
+Young
+move_speed
+0.50
+Butler
+health
+15
+Summer
+attack/speed
+10/-5
+_
+Accelerator (BW)
+_
+Accelerator (OT5)
+Cat
+defense/health_regen
+5/-0.5
+WW3
+defense
+5
+_
+Acqua of the Back
+_
+Adol Christin
+_
+Agnese Sanctis
+_
+Cat
+health/defense
+10/5
+OT11
+move_speed/defense
+0.5/-5
+_
+Anti-Skill
+_
+Aureolus Izzard
+_
+Etzali
+Fancy
+attack
+88
+_
+Fiamma of the Right
+_
+Frenda Seivelun
+_
+Frenda Seivelun (EX)
+_
+Gekota Man
+_
+Hamazura Shiage
+_
+Hamazura Shiage (EX)
+_
+Heaven Canceller
+_
+Index
+Soccer
+crit_chance/defense
+0.01/5
+Bunny
+health/defense
+20/5
+Summer
+attack/defense
+10/-5
+_
+Itsuwa
+OT14
+health
+10
+Soccer
+crit_chance/defense
+0.01/5
+Bride
+health
+15
+_
+Kakine Teitoku
+Halloween
+magic_defense/health
+10/5
+_
+Kamijou Touma
+Butler
+health
+15
+Athlete
+move_speed
+0.1
+Fall
+defense
+5
+Daihaseisai
+move_speed
+0.2
+_
+Kanzaki Kaori
+Bride
+health
+15
+_
+Kazakiri Hyouka
+OT6
+attack/defense
+10/-5
+_
+Kinuhata Saiai
+_
+Kinuhata Saiai (EX)
+_
+Kongou Mitsuko
+_
+Meigo Arisa
+_
+Misaka Imouto
+Fall
+defense
+5
+_
+Misaka Imouto (EX)
+_
+Misaka Mikoto
+Fall
+defense
+5
+Spring
+move_speed/attack/defense
+.1/10/-5
+White Birthday
+science_defense/attack
+2/5
+Black Birthday
+magic_defense/health
+2/5
+Summer
+attack/defense
+10/-5
+Soccer
+crit_chance/defense
+0.01/5
+Cape Birthday
+magic_defense/attack
+2/5
+Manga
+health/move_speed
+10/0.3
+Daihaseisai
+move_speed
+0.1
+Swimsuit
+attack/defense
+10/-5
+Pink Birthday
+science_defense/health
+2/5
+Casual
+defense
+5
+Bride
+health
+15
+Chinese New Year
+attack
+5
+_
+Misaka Mikoto (5.1)
+Halloween
+magic_defense/health
+10/5
+_
+Misha Kreutzev
+Soccer
+crit_chance/defense
+0.01/5
+_
+Miyabi
+_
+Mugino Shizuri
+Summer
+attack/defense
+10/-5
+Fancy
+defense
+5
+_
+Musujime Awaki
+No Cape
+move_speed/attack
+0.3/5
+Red Cape
+attack/defense
+10/5
+Summer
+attack/defense
+10/5
+_
+Oriana Thomson
+Fancy Defense
+defense
+5
+Fancy Health
+health
+15
+Soccer
+crit_chance/defense
+0.01/5
+_
+Sakura Shinguji
+_
+Security Robot
+_
+Shirai Kuroko
+Daihaseisai
+0.1
+Spring
+move_speed/attack/defense
+0.3/10/-5
+Casual
+move_speed
+0.1
+Valentine's Day
+defense
+5
+Chinese New Year
+attack
+5
+Soccer
+crit_chance/defense
+0.01/5
+_
+Shirai Kuroko (Young)
+_
+Shokuhou Misaki
+Halloween
+magic_defense/health
+10/5
+_
+Shokuhou Misaki (EX)
+_
+Stiyl Magnus
+_
+Suzushina Yuriko
+Soccer
+crit_chance/defense	
+0.01/5
+_
+Tsuchimikado Motoharu
+Fancy
+health
+1760
+Daihaseisai
+move_speed
+0.1
+OT15
+defense
+5
+_
+Yumi
+_

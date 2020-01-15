@@ -1,0 +1,7 @@
+Cain Fact
+1
+purple
+science_attack/science_defense/free
+114/50
+4.41
+_

@@ -1,0 +1,14 @@
+Kihara Amata
+2
+blue
+attack/science_defense/free
+44/50
+4
+_
+Kihara Amata
+1
+green
+normal_attack/attack
+26/50
+4.41
+_

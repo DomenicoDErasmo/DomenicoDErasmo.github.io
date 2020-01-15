@@ -1,0 +1,11 @@
+Domenico D'Erasmo
+2 January 2019
+
+Format for SceneList.txt:
+
+Name to be used by program
+rarity
+stat1/stat2
+! (optional) - Abnormal stat growths
+keywords
+_

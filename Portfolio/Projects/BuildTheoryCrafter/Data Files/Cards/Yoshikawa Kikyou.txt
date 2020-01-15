@@ -1,0 +1,14 @@
+Yoshikawa Kikyou
+2
+blue
+science_defense/crit_damage/free
+44/0.0500
+4
+_
+Yoshikawa Kikyou
+1
+green
+defense/attack
+12/50
+2
+_

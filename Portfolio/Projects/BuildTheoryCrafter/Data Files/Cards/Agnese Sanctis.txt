@@ -1,0 +1,35 @@
+Agnese Sanctis
+2
+blue
+magic_attack/defense/free
+48/25
+4.41
+_
+Agnese Sanctis
+3
+blue
+magic_defense/magic_defense/free
+44/50
+4
+_
+Agnese Sanctis
+8
+gold
+defense/magic_attack/attack/free
+57/55/50
+2
+_
+Agnese Sanctis
+1
+green
+magic_attack/magic_attack
+26/55
+4.41
+_
+Agnese Sanctis
+5
+purple
+magic_attack/defense/free
+114/25
+4.41
+_

@@ -1,0 +1,7 @@
+Geis
+1
+purple
+magic_attack/magic_attack/free
+114/55
+4.41
+_

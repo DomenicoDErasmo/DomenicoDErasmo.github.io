@@ -1,0 +1,28 @@
+Tsukuyomi Komoe
+2
+blue
+crit_chance/magic_defense/free
+0.0880/50
+0.0008
+_
+Tsukuyomi Komoe
+8
+gold
+normal_defense/normal_attack/attack/free
+114/55/50
+4
+_
+Tsukuyomi Komoe
+1
+green
+attack/defense
+24/25
+4
+_
+Tsukuyomi Komoe
+5
+purple
+health/crit_damage/free
+2080/0.0500
+80
+_

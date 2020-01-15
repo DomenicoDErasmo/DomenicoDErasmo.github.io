@@ -1,0 +1,14 @@
+Therestina Kihara Lifeline
+2
+blue
+science_defense/attack/free
+44/50
+4
+_
+Therestina Kihara Lifeline
+5
+purple
+defense/science_attack/free
+52/55
+2
+_

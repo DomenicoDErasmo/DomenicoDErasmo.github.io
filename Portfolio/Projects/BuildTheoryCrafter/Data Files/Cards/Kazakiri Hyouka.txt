@@ -1,0 +1,42 @@
+Kazakiri Hyouka
+3
+blue
+defense/health_regen/free
+22/5
+2
+_
+Kazakiri Hyouka
+2
+blue
+health/attack/free
+880/50
+80
+_
+Kazakiri Hyouka
+8
+gold
+attack/normal_defense/health/free
+114/50/1000
+4
+_
+Kazakiri Hyouka
+9
+gold
+normal_attack/attack/free/free
+125/50
+4.41
+_
+Kazakiri Hyouka
+1
+green
+health/defense
+480/25
+80
+_
+Kazakiri Hyouka
+5
+purple
+health/crit_chance/free
+2080/0.01
+80
+_

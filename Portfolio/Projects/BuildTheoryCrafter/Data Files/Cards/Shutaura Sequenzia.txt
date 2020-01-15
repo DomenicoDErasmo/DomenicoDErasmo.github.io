@@ -1,0 +1,7 @@
+Shutaura Sequenzia
+5
+purple
+crit_chance/health/free
+0.0208/1000
+0.0008
+_

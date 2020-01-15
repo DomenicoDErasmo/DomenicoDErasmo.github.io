@@ -1,0 +1,56 @@
+Kamijou Touma
+3
+blue
+magic_defense/defense/free
+44/25
+4
+_
+Kamijou Touma
+2
+blue
+science_defense/defense/free
+44/25
+4
+_
+Kamijou Touma
+9
+gold
+defense/attack/free/date
+57/50
+2
+_
+Kamijou Touma
+8
+gold
+health/move_speed/crit_chance/free
+2280/0.50/0.0100
+80
+_
+Kamijou Touma
+10
+gold
+crit_chance/crit_damage/science_attack/free
+0.0100/0.0500/55
+0.0008
+_
+Kamijou Touma
+1
+green
+defense/attack
+12/50
+2
+_
+Kamijou Touma
+6
+purple
+defense/attack/free	
+52/50
+2
+_
+Kamijou Touma
+5
+purple
+normal_attack/health_regen/free
+114/5.0
+4.41
+_

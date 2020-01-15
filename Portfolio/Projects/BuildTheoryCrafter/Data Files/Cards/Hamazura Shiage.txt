@@ -1,0 +1,21 @@
+Hamazura Shiage
+8
+gold
+normal_attack/health_regen/defense/free
+125/5.0/25
+4.41
+_
+Hamazura Shiage
+5
+purple
+crit_damage/defense/free
+0.1040/25
+0.0040
+_
+Hamazura Shiage
+6
+purple
+normal_attack/attack/free
+114/50
+4.41
+_

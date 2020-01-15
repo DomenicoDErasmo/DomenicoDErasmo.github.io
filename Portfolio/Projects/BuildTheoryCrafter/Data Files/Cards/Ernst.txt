@@ -1,0 +1,7 @@
+Ernst
+1
+purple
+magic_defense/magic_defense/free
+104/50
+4
+_

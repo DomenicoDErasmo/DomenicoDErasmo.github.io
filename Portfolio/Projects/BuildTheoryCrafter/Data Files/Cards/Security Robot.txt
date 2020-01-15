@@ -1,0 +1,7 @@
+Security Robot
+1
+purple
+defense/free
+52
+2
+_

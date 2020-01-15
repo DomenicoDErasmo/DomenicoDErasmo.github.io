@@ -1,0 +1,35 @@
+Last Order
+2
+blue
+normal_defense/attack/free
+44/50
+4
+_
+Last Order
+10
+gold
+attack/crit_damage/science_attack
+114/0.0500/55
+4
+_
+Last Order
+8
+gold
+defense/crit_chance/health/free
+57/0.0100/1000
+2
+_
+Last Order
+9
+gold
+crit_damage/magic_defense/science_defense
+0.1140/50/50
+0.0040
+_
+Last Order
+5
+purple
+health/crit_damage/free
+2080/0.0500
+80
+_

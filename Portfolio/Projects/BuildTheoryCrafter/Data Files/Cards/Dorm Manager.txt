@@ -1,0 +1,7 @@
+Dorm Manager
+5
+purple
+crit_damage/move_speed/free
+0.1040/0.50
+0.0040
+_

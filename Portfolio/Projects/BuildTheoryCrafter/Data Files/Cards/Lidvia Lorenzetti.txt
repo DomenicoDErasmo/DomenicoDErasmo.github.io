@@ -1,0 +1,14 @@
+Lidvia Lorenzetti
+1
+green
+defense/magic_defense
+12/50
+2
+_
+Lidvia Lorenzetti
+5
+purple
+magic_defense/normal_attack/free
+104/55
+4
+_

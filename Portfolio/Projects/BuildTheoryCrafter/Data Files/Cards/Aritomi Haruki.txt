@@ -1,0 +1,14 @@
+Aritomi Haruki
+2
+blue
+defense/normal_defense
+12/50
+2
+_
+Aritomi Haruki
+1
+green
+attack/defense
+24/25
+4
+_

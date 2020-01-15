@@ -1,0 +1,35 @@
+Tsuchimikado Maika
+30
+blue
+magic_defense/attack/free
+44/50
+4
+_
+Tsuchimikado Maika
+2
+blue
+normal_defense/science_defense/free
+44/50
+4
+_
+Tsuchimikado Maika
+50
+gold
+magic_defense/attack/health/free
+114/50/1000
+4
+_
+Tsuchimikado Maika
+1
+green
+science_attack/health
+26/1000
+4.41
+_
+Tsuchimikado Maika
+40
+purple
+magic_defense/attack/free
+104/50
+4
+_

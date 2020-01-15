@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+C:\Users\im proud of you son\source\repos\BuildTheoryCrafter\Calculator.cpp(237): error C3861: 'RemoveCard': identifier not found
+  Card.cpp
+C:\Users\im proud of you son\source\repos\BuildTheoryCrafter\Classes\Card\Card.cpp(155): error C3861: 'GoToLine': identifier not found
+C:\Users\im proud of you son\source\repos\BuildTheoryCrafter\Classes\Card\Card.cpp(162): error C3861: 'GoToLine': identifier not found
+  Generating Code...

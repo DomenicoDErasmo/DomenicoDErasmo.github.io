@@ -1,0 +1,14 @@
+Yomikawa Aiho
+2
+blue
+science_defense/attack/free
+44/50
+4
+_
+Yomikawa Aiho
+5
+purple
+defense/normal_attack/free
+52/55
+2
+_

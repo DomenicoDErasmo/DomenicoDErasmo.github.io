@@ -1,0 +1,14 @@
+Edasaki Banri
+2
+blue
+defense/science_attack/free
+22/55
+2
+_
+Edasaki Banri
+1
+green
+health_regen/defense
+2.4/25
+0.40
+_

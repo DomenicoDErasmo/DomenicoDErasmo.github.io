@@ -1,0 +1,7 @@
+Adol Christin
+1
+gold
+attack/health_regen/free/free
+114/5.0
+4
+_

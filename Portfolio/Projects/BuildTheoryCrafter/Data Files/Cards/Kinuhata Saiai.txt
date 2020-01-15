@@ -1,0 +1,14 @@
+Kinuhata Saiai
+2
+blue
+defense/science_attack/free
+22/55
+2
+_
+Kinuhata Saiai
+1
+green
+defense/defense
+12/25
+2
+_

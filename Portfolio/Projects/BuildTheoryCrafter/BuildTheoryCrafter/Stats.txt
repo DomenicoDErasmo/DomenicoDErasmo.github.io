@@ -1,0 +1,14 @@
+Stat		Amount
+health		500
+attack		500
+defense		500
+crit_chance		500
+crit_damage		500
+normal_attack		500
+science_attack		500
+magic_attack		500
+normal_defense		500
+science_defense		500
+magic_defense		500
+health_regen		500
+move_speed		500

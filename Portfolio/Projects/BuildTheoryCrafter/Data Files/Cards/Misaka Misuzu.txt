@@ -1,0 +1,12 @@
+Misaka Misuzu
+blue
+defense/crit_chance/free
+22/0.0010
+2
+_
+Misaka Misuzu
+purple
+defense/crit_chance/free
+52/0.0010
+2
+_

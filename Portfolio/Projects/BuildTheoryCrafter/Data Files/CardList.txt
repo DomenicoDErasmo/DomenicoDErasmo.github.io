@@ -1,0 +1,1144 @@
+Accelerator
+blue
+attack/attack/free
+_
+Accelerator
+blue
+attack/defense/free
+_
+Accelerator
+blue
+science_attack/crit_chance/free
+_
+Accelerator
+gold
+attack/defense/crit_chance/free
+_
+Accelerator
+gold
+attack/science_attack/free/date
+_
+Accelerator
+gold
+health/crit_chance/defense/free
+_
+Accelerator
+gold
+science_attack/health/attack/free
+_
+Accelerator
+green
+attack/attack/free
+_
+Accelerator
+purple
+attack/defense/free
+_
+Accelerator
+purple
+attack/science_attack/free
+_
+Accelerator
+purple
+science_attack/normal_defense/free
+_
+Adol Christin
+gold
+attack/health_regen/free/free
+_
+Agnese Sanctis
+blue
+magic_attack/defense/free
+_
+Agnese Sanctis
+blue
+magic_defense/magic_defense/free
+_
+Agnese Sanctis
+gold
+defense/magic_attack/attack/free
+_
+Agnese Sanctis
+green
+magic_attack/magic_attack
+_
+Agnese Sanctis
+purple
+magic_attack/defense/free
+_
+Aleister Crowley
+gold
+crit_chance/health_regen/health/free
+_
+Aleister Crowley
+purple
+crit_chance/health_regen/free
+_
+Amai Ao
+blue
+normal_attack/defense/free
+_
+Amai Ao
+green
+defense/science_defense
+_
+Angelene
+blue
+magic_attack/magic_attack/free
+_
+Angelene
+green
+magic_attack/Defense
+_
+Aogami Pierce
+blue
+crit_damage/science_defense/free
+_
+Aogami Pierce
+gold
+crit_chance/health_regen/defense/free
+_
+Aogami Pierce
+purple
+crit_chance/health/free
+_
+Aqua of the Back
+blue
+crit_damage/magic_attack/free
+_
+Aqua of the Back
+gold
+damage/health/attack/free
+_
+Aqua of the Back
+gold
+health/defense/crit_damage/free
+_
+Aqua of the Back
+gold
+move_speed/attack/move_speed/free
+_
+Aqua of the Back
+purple
+health/crit_chance/free
+_
+Aqua of the Back
+purple
+move_speed/health/free
+_
+Aritomi Haruki
+green
+attack/defense
+_
+Aureolus Izzard
+blue
+attack/defense/free
+_
+Aureolus Izzard
+purple
+normal_defense/attack/free
+_
+Awatsuki Maaya
+green
+science_attack/health
+_
+Biagio
+blue
+magic_attack/defense/free
+_
+Biagio
+gold
+crit_damage/defense/health_regen/free
+_
+Biagio
+purple
+defense/attack/free
+_
+Biagio
+purple
+health_regen/health/free
+_
+Cain Fact
+purple
+science_attack/science_defense/free
+_
+Chester Stoddart
+purple
+normal_attack/normal_attack/free
+_
+Dana Iclucia
+gold
+defense/crit_damage/free/free
+_
+Dorm Manager
+purple
+crit_damage/move_speed/free
+_
+Edasaki Banri
+blue
+defense/science_attack/free
+_
+Edasaki Banri
+green
+health_regen/defense
+_
+Elena Stoddart
+purple
+normal_defense/normal_defense/free
+_
+Ernst
+purple
+magic_defense/magic_defense/free
+_
+Etzali
+gold
+magic_defense/attack/attack/free
+_
+Etzali
+purple
+health/attack/free
+_
+Febrie
+blue
+health/health_regen/free
+_
+Feena
+gold
+health/crit_chance/free/free
+_
+Fiamma of the Right
+blue
+health/crit_damage/free
+_
+Fiamma of the Right
+purple
+attack/defense/free
+_
+Frenda Seivelun
+blue
+health/attack/free
+_
+Frenda Seivelun
+blue
+science_attack/attack/free
+_
+Frenda Seivelun
+gold
+science_attack/attack/science_attack/free
+_
+Frenda Seivelun
+green
+magic_defense/magic_defense
+_
+Frenda Seivelun
+purple
+science_attack/attack/free
+_
+Fukiyose Seiri
+blue
+attack/health/free
+_
+Fukiyose Seiri
+green
+magic_defense/attack
+_
+Geis
+purple
+magic_attack/magic_attack/free
+_
+Hamazura Shiage
+gold
+normal_attack/health_regen/defense/free
+_
+Hamazura Shiage
+purple
+crit_damage/defense/free
+_
+Hamazura Shiage
+purple
+normal_attack/attack/free
+_
+Haruue Erii
+blue
+defense/normal_defense
+_
+Haruue Erii
+green
+science_defense/crit_damage
+_
+Heaven Canceller
+blue
+health_regen/health/free
+_
+Heaven Canceller
+gold
+health_regen/normal_attack/move_speed/free
+_
+Hebitani Tsugou
+blue
+attack/defense/free
+_
+Hebitani Tsugou
+green
+normal_attack/normal_attack
+_
+Himegami Aisa
+blue
+magic_defense/magic_attack/free
+_
+Himegami Aisa
+gold
+normal_attack/magic_defense/defense/free
+_
+Himegami Aisa
+green
+health/attack
+_
+Himegami Aisa
+purple
+magic_defense/normal_attack/free
+_
+Index
+blue
+defense/magic_defense/free
+_
+Index
+blue
+normal_defense/normal_attack/free
+_
+Index
+gold
+magic_attack/defense/health/free
+_
+Index
+gold
+magic_defense/health/free/date
+_
+Index
+green
+magic_defense/defense
+_
+Index
+purple
+defense/attack/free
+_
+Index
+purple
+magic_defense/health/free
+_
+Itsuwa
+blue
+critDefense/health_regen/free
+_
+Itsuwa
+blue
+health_regen/crit_chance/free
+_
+Itsuwa
+gold
+health/crit_damage/defense/free
+_
+Itsuwa
+green
+crit_damage/crit_chance
+_
+Itsuwa
+purple
+attack/crit_damage/free
+_
+Janie
+blue
+health/attack/free
+_
+Janie
+blue
+crit_damage/attack/free
+_
+Janie
+gold
+crit_damage/attack/health/free
+_
+Janie
+purple
+crit_damage/attack/free
+_
+Judgement Girl
+purple
+crit_chance/free
+_
+Juufuku Miho
+blue
+normal_defense/science_attack/free
+_
+Juufuku Miho
+green
+health/science_attack
+_
+Kaitabi Hatsuya
+blue
+health/attack/free
+_
+Kaitabi Hatsuya
+green
+health/normal_defense
+_
+Kakine Teitoku
+gold
+normal_defense/crit_damage/attack/free
+_
+Kakine Teitoku
+purple
+defense/science_attack/free
+_
+Kamijou Shiina
+blue
+health/normal_attack/free
+_
+Kamijou Shiina
+green
+health/health_regen
+_
+Kamijou Touma
+blue
+magic_defense/defense/free
+_
+Kamijou Touma
+blue
+science_defense/defense/free
+_
+Kamijou Touma
+gold
+defense/attack/free/date
+_
+Kamijou Touma
+gold
+health/move_speed/crit_chance/free
+_
+Kamijou Touma
+green
+defense/attack
+_
+Kamijou Touma
+purple
+defense/attack/free	
+_
+Kamijou Touma
+purple
+normal_attack/health_regen
+_
+Kamijou Touya
+blue
+defense/normal_attack/free
+_
+Kamijou Touya
+purple
+science_defense/magic_attack/free
+_
+Kanzaki Kaori
+blue
+crit_chance/normal_attack/free
+_
+Kanzaki Kaori
+blue
+crit_damage/crit_damage/free
+_
+Kanzaki Kaori
+gold
+crit_chance/attack/free/date
+_
+Kanzaki Kaori
+gold
+magic_attack/health/attack/free
+_
+Kanzaki Kaori
+green
+crit_chance/normal_attack
+_
+Kanzaki Kaori
+purple
+crit_chance/attack/free
+_
+Kanzaki Kaori
+purple
+magic_attack/defense/free
+_
+Kazakiri Hyouka
+blue
+defense/health_regen/free
+_
+Kazakiri Hyouka
+blue
+health/attack/free
+_
+Kazakiri Hyouka
+gold
+attack/normal_defense/health/free
+_
+Kazakiri Hyouka
+green
+health/defense
+_
+Kazakiri Hyouka
+purple
+health/crit_chance/free
+_
+Kihara Amata
+blue
+attack/science_defense/free
+_
+Kihara Amata
+green
+normal_attack/attack
+_
+Kihara Gensei
+blue
+normal_attack/defense/free
+_
+Kihara Gensei
+green
+health/crit_chance
+_
+Kinuhata Saiai
+blue
+defense/science_attack/free
+_
+Kinuhata Saiai
+green
+defense/defense
+_
+Kiyama Harumi
+blue
+crit_chance/defense/free
+_
+Kiyama Harumi
+blue
+science_attack/science_attack/free
+_
+Kiyama Harumi
+gold
+crit_chance/defense/crit_damage/free
+_
+Kiyama Harumi
+green
+crit_damage/crit_chance
+_
+Kiyama Harumi
+purple
+crit_chance/defense/free
+_
+Komaba Ritoku
+blue
+normal_attack/defense/free
+_
+Komaba Ritoku
+green
+normal_attack/science_defense
+_
+Kongou Mitsuko
+gold
+science_attack/defense/health_regen/free
+_
+Kongou Mitsuko
+purple
+science_defense/attack/free
+_
+Konori Mii
+gold
+science_attack/defense/move_speed/free
+_
+Konori Mii
+purple
+health/defense/free
+_
+Kurozama Wataru
+purple
+normal_attack/defense/free
+_
+Kurozama Wataru
+blue
+health/crit_damage/free
+_
+Ladylee Tangleroad
+green
+magic_defense/health
+_
+Last Order
+blue
+normal_defense/attack/free
+_
+Last Order
+gold
+defense/crit_chance/health/free
+_
+Last Order
+purple
+health/crit_damage/free
+_
+Laura Stuart
+gold
+crit_chance/health/defense/free
+_
+Laura Stuart
+purple
+crit_damage/health_regen/free
+_
+Lidvia Lorenzetti
+green
+defense/magic_defense
+_
+Lidvia Lorenzetti
+purple
+magic_defense/normal_attack/free
+_
+Lucia
+green
+magic_attack/normal_defense
+_
+Lucia
+purple
+magic_defense/health/free
+_
+Meigo Arisa
+gold
+health_regen/move_speed/crit_chance/free
+_
+Meigo Arisa
+purple
+health_regen/move_speed/free
+_
+Misaka Imouto
+blue
+crit_damage/science_defense/free
+_
+Misaka Imouto
+blue
+health/normal_attack/free
+_
+Misaka Imouto
+blue
+normal_attack/crit_chance/free
+_
+Misaka Imouto
+gold
+attack/science_defense/health/free
+_
+Misaka Imouto
+gold
+crit_chance/attack/free/date
+_
+Misaka Imouto
+gold
+health/normal_attack/crit_chance/free
+_
+Misaka Imouto
+green
+crit_chance/science_defense
+_
+Misaka Imouto
+purple
+attack/science_defense/free
+_
+Misaka Imouto
+purple
+crit_chance/attack/free
+_
+Misaka Imouto
+purple
+health/normal_attack/free
+_
+Misaka Mikoto
+blue
+attack/science_defense/free
+_
+Misaka Mikoto
+blue
+defense/attack/free
+_
+Misaka Mikoto
+blue
+health/attack/free
+_
+Misaka Mikoto
+gold
+crit_chance/science_attack/free/date
+_
+Misaka Mikoto
+gold
+crit_damage/science_defense/defense/free
+_
+Misaka Mikoto
+gold
+health/attack/crit_damage/free
+_
+Misaka Mikoto
+gold
+magic_defense/attack/science_attack/free
+_
+Misaka Mikoto
+gold
+science_attack/attack/science_defense/free
+_
+Misaka Mikoto
+green
+attack/health
+_
+Misaka Mikoto
+purple
+attack/defense/free
+_
+Misaka Mikoto
+purple
+health/attack/free
+_
+Misaka Mikoto
+purple
+crit_chance/attack/free
+_
+Misaka Misuzu
+blue
+defense/crit_chance/free
+_
+Mugino Shizuri
+blue
+attack/crit_damage/free
+_
+Mugino Shizuri
+blue
+science_attack/normal_defense/free
+_
+Mugino Shizuri
+gold
+health/crit_damage/attack/free
+_
+Mugino Shizuri
+green
+attack/science_attack
+_
+Mugino Shizuri
+purple
+science_attack/science_defense/free
+_
+Musujime Awaki
+blue
+attack/health/free
+_
+Musujime Awaki
+blue
+science_attack/normal_defense/free
+_
+Musujime Awaki
+gold
+health/science_attack/attack/free
+_
+Musujime Awaki
+green
+science_defense/science_attack
+_
+Musujime Awaki
+purple
+attack/magic_defense/free
+_
+Nunotaba Shinobu
+blue
+health/defense/free
+_
+Nunotaba Shinobu
+blue
+normal_attack/health
+_
+Nunotaba Shinobu
+gold
+health/defense/attack/free
+_
+Nunotaba Shinobu
+green
+defense/attack
+_
+Nunotaba Shinobu
+purple
+health/defense/free
+_
+Okahara Ryouta
+blue
+defense/attack
+_
+Okahara Ryouta
+green
+science_defense/magic_defense
+_
+Oriana Thomson
+blue
+magic_defense/health_regen/free
+_
+Oriana Thomson
+blue
+normal_defense/health/free
+_
+Oriana Thomson
+gold
+attack/normal_defense/health/free
+_
+Oriana Thomson
+purple
+defense/magic_attack/free
+_
+Orsola Aquinas
+blue
+magic_defense/defense/free
+_
+Orsola Aquinas
+blue
+magic_defense/magic_attack/free
+_
+Orsola Aquinas
+gold
+magic_defense/defense/health/free
+_
+Orsola Aquinas
+green
+normal_defense/health
+_
+Orsola Aquinas
+purple
+magic_defense/defense/free
+_
+Reah
+gold
+crit_chance/attack/free/free
+_
+Sahad Nautilus
+purple
+science_attack/science_defense/free
+_
+Sasha Kreutzev
+blue
+crit_chance/health/free
+_
+Sasha Kreutzev
+blue
+crit_damage/health/free
+_
+Sasha Kreutzev
+gold
+defense/crit_chance/health/free
+_
+Sasha Kreutzev
+green
+crit_chance/magic_attack
+_
+Sasha Kreutzev
+purple
+magic_attack/health/free
+_
+Saten Ruiko
+blue
+attack/defense/free
+_
+Saten Ruiko
+gold
+attack/defense/crit_chance/free
+_
+Saten Ruiko
+gold
+attack/defense/crit_damage/free
+_
+Saten Ruiko
+gold
+defense/attack/crit_damage/free
+_
+Saten Ruiko
+green
+defense/health
+_
+Saten Ruiko
+purple
+attack/defense/free
+_
+Saten Ruiko
+purple
+normal_defense/normal_defense/free
+_
+Security Robot
+purple
+defense/free
+_
+Sherry Cromwell
+blue
+magic_attack/defense/free
+_
+Sherry Cromwell
+purple
+health/magic_attack/free
+_
+Shirai Kuroko
+blue
+crit_chance/science_defense/free
+_
+Shirai Kuroko
+blue
+science_attack/defense/free
+_
+Shirai Kuroko
+gold
+crit_chance/crit_damage/free/date
+_
+Shirai Kuroko
+gold
+move_speed/science_attack/magic_defense/free
+_
+Shirai Kuroko
+gold
+defense/science_attack/attack/free
+_
+Shirai Kuroko
+green
+magic_attack/health
+_
+Shirai Kuroko
+purple
+crit_chance/crit_damage/free
+_
+Shirai Kuroko
+purple
+science_attack/normal_defense/free
+_
+Shokuhou Misaki
+gold
+attack/health/defense/free
+_
+Shutaura Sequenzia
+purple
+crit_chance/health/free
+_
+Skill-Out Cop
+purple
+crit_damage/free
+_
+Shokuhou Misaki
+purple
+attack/health
+_
+Skill-Out Thug
+purple
+attack/free
+_
+Sogiita Gunha
+gold
+science_defense/attack/crit_damage/free
+_
+Sogiita Gunha
+purple
+attack/health/free
+_
+Stiyl Magnus
+blue
+attack/magic_defense/free
+_
+Stiyl Magnus
+blue
+magic_attack/magic_attack/free
+_
+Stiyl Magnus
+gold
+attack/magic_attack/free/date
+_
+Stiyl Magnus
+gold
+crit_damage/magic_defense/health/free
+_
+Stiyl Magnus
+green
+attack/magic_attack/free
+_
+Stiyl Magnus
+purple
+attack/normal_defense/free
+_
+Stiyl Magnus
+purple
+attack/magic_attack/free
+_
+Takitsubo Rikou
+blue
+crit_chance/normal_defense/free
+_
+Takitsubo Rikou
+green
+crit_chance/crit_damage
+_
+Tatemiya Saiji
+gold
+magic_defense/magic_attack/attack/free
+_
+Tatemiya Saiji
+purple
+normal_attack/magic_defense/free
+_
+Terrra of the Left
+blue
+health/crit_chance/free
+_
+Terra of the Left
+purple
+defense/magic_defense/free
+_
+Tessou Tsuzuri
+blue
+science_defense/normal_attack/free
+_
+Tessou Tsuzuri
+green
+health/normal_attack
+_
+Therestina Kihara Lifeline
+blue
+science_defense/attack/free
+_
+Therestina Kihara Lifeline
+purple
+defense/science_attack/free
+_
+Toal Fact
+purple
+crit_damage/move_speed/free
+_
+Tsuchimikado Maika
+blue
+magic_defense/attack/free
+_
+Tsuchimikado Maika
+blue
+normal_defense/science_defense/free
+_
+Tsuchimikado Maika
+gold
+magic_defense/attack/health/free
+_
+Tsuchimikado Maika
+green
+science_attack/health
+_
+Tsuchimikado Maika
+purple
+magic_defense/attack/free
+_
+Tsuchimikado Motoharu
+blue
+health_regen/health/free
+_
+Tsuchimikado Motoharu
+blue
+health_regen/health_regen/free
+_
+Tsuchimikado Motoharu
+blue
+science_attack/health/free
+_
+Tsuchimikado Motoharu
+gold
+attack/health/defense/free
+_
+Tsuchimikado Motoharu
+gold
+health/health_regen/free/date
+_
+Tsuchimikado Motoharu
+gold
+science_attack/health/attack/free
+_
+Tsuchimikado Motoharu
+green
+health_regen/health_regen
+_
+Tsuchimikado Motoharu
+purple
+health/attack/free
+_
+Tsuchimikado Motoharu
+purple
+health/health_regen/free
+_
+Tsuchimikado Motoharu
+purple
+science_attack/health/free
+_
+Tsukuyomi Komoe
+blue
+crit_chance/magic_defense/free
+_
+Tsukuyomi Komoe
+gold
+normal_defense/normal_attack/attack/free
+_
+Tsukuyomi Komoe
+green
+attack/defense
+_
+Tsukuyomi Komoe
+purple
+health/crit_damage/free
+_
+Uiharu Kazari
+blue
+attack/normal_defense/free
+_
+Uiharu Kazari
+blue
+magic_defense/defense/free
+_
+Uiharu Kazari
+gold
+magic_defense/defense/health/free
+_
+Uiharu Kazari
+gold
+science_attack/defense/health/free
+_
+Uiharu Kazari
+purple
+magic_defense/defense/free
+_
+Uiharu Kazari
+purple
+science_attack/attack/free
+_
+Uiharu Kazari
+purple
+scienceDamage/science_attack/free
+_
+Vending Machine
+purple
+attack/free
+_
+Vento of the Front
+blue 
+attack/magic_defense/free
+_
+Vento of the Front
+purple
+normal_defense/attack/free
+_
+Wannai Kinuho
+blue
+health/science_attack/free
+_
+Yamisaka Ouma
+blue
+crit_chance/magic_defense/free
+_
+Yomikawa Aiho
+blue
+magic_defense/attack/free
+_
+Yomikawa Aiho
+purple
+defense/normal_attack/free
+_
+Yoshikawa Kikyou
+blue
+science_defense/crit_damage/free
+_
+Yoshikawa Kikyou
+green
+defense/attack
+_

@@ -1,0 +1,42 @@
+Musujime Awaki
+2
+blue
+attack/health/free
+44/1000
+4
+_
+Musujime Awaki
+3
+blue
+science_attack/normal_defense/free
+48/50
+4.41
+_
+Musujime Awaki
+8
+gold
+health/science_attack/attack/free
+2280/55/50
+80
+_
+Musujime Awaki
+9
+gold
+science_attack/crit_damage/attack/free
+125/0.0500/50
+4.41
+_
+Musujime Awaki
+1
+green
+science_defense/science_attack
+24/55
+4
+_
+Musujime Awaki
+5
+purple
+attack/science_defense/free
+104/50
+4
+_

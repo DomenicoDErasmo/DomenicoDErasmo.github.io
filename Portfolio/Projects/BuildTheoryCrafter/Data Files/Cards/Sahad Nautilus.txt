@@ -1,0 +1,7 @@
+Sahad Nautilus
+1
+purple
+science_defense/science_attack/free
+104/55
+4
+_

@@ -1,0 +1,21 @@
+Fiamma of the Right
+2
+blue
+health/crit_damage/free
+880/0.0500
+80
+_
+Fiamma of the Right
+5
+gold
+crit_damage/defense/crit_damage/free
+0.1140/25/0.0050
+0.0040
+_
+Fiamma of the Right
+5
+purple
+attack/defense/free
+104/25
+4
+_

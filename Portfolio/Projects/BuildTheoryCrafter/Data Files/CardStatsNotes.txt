@@ -1,0 +1,17 @@
+Format:
+
+rarity
+Stat1
+Level1
+Growth
+Secondary
+Stat2
+Level1
+Growth
+Secondary
+...
+Stat13
+Level1
+Growth
+Secondary
+_

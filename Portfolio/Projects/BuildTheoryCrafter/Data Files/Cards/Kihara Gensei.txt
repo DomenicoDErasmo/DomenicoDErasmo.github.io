@@ -1,0 +1,14 @@
+Kihara Gensei
+2
+blue
+normal_attack/health/free
+48/1000
+4.41
+_
+Kihara Gensei
+1
+green
+health/crit_chance
+480/0.0100
+80
+_

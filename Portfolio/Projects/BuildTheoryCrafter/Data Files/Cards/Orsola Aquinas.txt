@@ -1,0 +1,35 @@
+Orsola Aquinas
+2
+blue
+magic_defense/magic_attack/free
+44/55
+4
+_
+Orsola Aquinas
+30
+blue
+magic_defense/defense/free
+44/25
+4
+_
+Orsola Aquinas
+50
+gold
+magic_defense/defense/health/free
+114/25/1000
+4
+_
+Orsola Aquinas
+1
+green
+normal_defense/health
+24/1000
+4
+_
+Orsola Aquinas
+40
+purple
+magic_defense/defense/free
+104/25
+4
+_

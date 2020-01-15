@@ -1,0 +1,14 @@
+Tessou Tsuzuri
+2
+blue
+science_defense/normal_attack/free
+44/55
+4
+_
+Tessou Tsuzuri
+1
+green
+health/normal_attack
+480/55
+80
+_

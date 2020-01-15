@@ -1,0 +1,7 @@
+Janie
+2
+blue
+health/attack/free
+880/50
+80
+_

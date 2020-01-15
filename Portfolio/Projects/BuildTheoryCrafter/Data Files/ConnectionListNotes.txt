@@ -1,0 +1,8 @@
+Format:
+
+Name
+NumberOfConnections
+Connection1Name 1/Connection1Name 2...
+Connection1Multiplier
+Connection2Name 1...
+_

@@ -1,0 +1,713 @@
+Accelerator's black wings
+gold
+attack/agility
+Accelerator, Kihara Amata, black wings
+_
+Accelerator and Last Order in diner
+gold
+health/power
+Accelerator, Last Order, diner
+_
+Accelerator and Last Order in book
+purple
+health_regen/defense
+Accelerator, Last Order
+_
+Accelerator and Last Order in hospital
+green
+science_defense/crit_damage
+Accelerator, Last Order, hospital
+_
+Accelerator and Last Order
+purple
+health_regen/attack
+Accelerator, Last Order
+_
+Acclerator and Young Accel
+gold
+science_attack/constitution
+!
+Accelerator
+_
+Accelerator charges forward
+green
+magic_defense/magic_attack
+Accelerator, Sister's Arc
+_
+Accelerator confronts Imouto
+white
+attack
+Accelerator, Misaka Imouto, Sister's Arc
+_
+Accelerator destroys a car
+blue
+science_defense/magic_attack
+Accelerator, car, destroyed
+_
+Accelerator gets shot
+blue
+science_attack/defense
+Accelerator, Amai Ao, shot, car
+_
+Accelerator practices shooting
+green
+magic_defense/science_attack
+Accelerator, Skill-Out Uprising Arc, gun
+_
+Accelerator punches Musujime
+white
+crit_damage
+Acclerator, Musujime Awaki, Remnant Arc
+_
+Accelerator sleeps
+white
+move_speed
+Accelerator, hospital
+_
+Adol and girl
+purple
+health_regen/defense
+Adol Christin, Ys
+_
+Adol and goddesses
+purple
+move_speed/health
+Adol Christin, Feena, Reah, Ys
+_
+Adol and Stoddarts
+purple
+health_regen/attack
+Adol Christin, Chester Stoddart, Elena Stoddart, Ys
+_
+Agnese Forces
+white
+magic_attack
+Agnese Sanctis, Agnese forces, Orsola Aquinas arc
+_
+Agnese's trio sits in church
+blue
+health_regen/defense
+Agnese Sanctis, Angelene, Lucia, church, young
+_
+Agnese greets Touma
+purple
+crit_damage/health
+Agnese Sanctis, Kamijou Touma, ice boats
+_
+Aleister
+white
+magic_defense
+Aleister Crowley
+_
+Arisa
+purple
+health/defense
+Meigo Arisa
+_
+Aqua carries Vento
+white
+health_regen
+Aqua of the Back, Vento of the Front, Academy City Invasion Arc
+_
+Bridal Outfits
+gold
+crit_damage/endurance
+Itsuwa, Kanzaki Kaori, Misaka Mikoto, endurance
+_
+Christmas party
+purple
+crit_damage/health
+Accelerator, Misaka Mikoto, Shirai Kuroko, Tsuchimikado Motoharu, Christmas
+_
+Delta force punches Touma
+green
+science_defense/attack
+Aogami Pierce, Kamijou Touma, Tsuchimikado Motoharu, delta force
+_
+Delta force walking
+blue 
+magic_defense/health
+Aogami Pierce, Kamijou Touma, Tsuchimikado Motoharu, delta force
+_
+Fukiyose Seiri makes announcement
+white
+health
+Fukiyose Seiri, Daihaseisai Arc
+_
+Fuse Kazakiri forms
+green
+normal_defense/crit_damage
+Fuse Kazakiri, Kazakiri Hyouka, Academy City Invasion Arc
+_
+Gold Christmas Party
+gold
+health_regen/constitution
+Accelerator, Index, Kamijou Touma, Misaka Mikoto, Shirai Kuroko, Tsuchimikado Motoharu
+_
+Halloween Magicians
+purple
+magic_attack/attack
+Halloween, magicians
+_
+Heaven Canceller advises Accelerator
+white
+magic_attack
+Accelerator, Heaven Canceller, Academy City Invasion Arc
+_
+Heaven Canceller calls Aleister
+green
+move_speed/health_regen
+Aleister Crowley, Heaven Canceller, Academy City Invasion Arc, phone
+_
+Himegami, Index, and Komoe drink milk
+blue
+normal_defense/magic_attack
+Himegami Aisa, Index, Tsukuyomi Komoe, bath, milk
+_
+Ice boat fleet
+white
+science_attack
+Ice boats, La Regina del Mare Adriatico Arc
+_
+Imouto and Touma in hospital
+gold
+attack/power
+Misaka Imouto/Kamijou Touma/hospital
+_
+Imouto carries a bodybag
+green
+science_defense/defense
+Misaka Imouto, Sister's Arc, bodybag
+_
+Imouto feeds a cat
+blue
+normal_defense/attack
+Misaka Imouto, cat, feed
+_
+Imouto pokes a dieting Imouto
+blue
+science_defense/defense
+Misaka Imouto, diet
+_
+Imouto snipes Accelerator
+blue
+normal_defense/defense
+Accelerator, Misaka Imouto, sniper rifle, Sister's Arc
+_
+Index's curse
+gold
+defense/constitution
+Index, Kamijou Touma, curse
+_
+Index and her grimoires
+blue
+magic_defense/normal_attack
+Index, grimoires, mind
+_
+Index and Touma argue
+green
+normal_defense/health
+Index, Kamijou Touma, yelling
+_
+Index bites Touma
+blue
+normal_defense/science_attack
+Index, Kamijou Touma, bite, fukou da
+_
+Index hugs Kazakiri
+purple
+science_defense/attack
+Index, Kazakiri Hyouka, hug
+_
+Index in John's Pen mode
+gold
+attack/constitution
+Index, Kanzaki Kaori, Kamijou Touma, Stiyl Magnus, John's Pen Mode, Index Arc
+_
+Index sings
+green
+normal_defense/attack
+Index, sing, Academy City Invasion Arc
+_
+Index uses Sheol Fear
+white
+crit_chance
+Index, Orsola Aquinas Arc
+_
+Index x Sakura Wars
+gold
+crit_damage/power
+Sakura Wars
+_
+ITEM
+purple
+crit_damage/crit_chance
+Frenda Seivelun, Kinuhata Saiai, Mugino Shizuri, Takitsubo Rikou
+_
+Itsuwa offers a towel
+white
+normal_defense
+Itsuwa, Kamijou Touma, Orsola Aquinas, La Regina del Mare Adriatico Arc
+_
+Kamijou Faction protects Orsola
+white
+crit_damage
+Index, Itsuwa, Orsola Aquinas, Stiyl Magnus, Tatemiya Saiji, Orsola Aquinas Arc
+_
+Kanzaki's fallen angel costume
+gold
+defense/ power
+Kanzaki Kaori, fallen angel
+_
+Kanzaki and Stiyl
+gold
+attack/endurance
+Kanzaki Kaori, Stiyl Magnus, Index Arc
+_
+Kanzaki and Tsuchimikado talk
+green
+magic_defense/defense
+Kanzaki Kaori, Tsuchimikado Motoharu, Angel Fall Arc
+_
+Kanzaki sees Touma in hospital
+purple
+health_regen/defense
+Kamijou Touma, Kanzaki Kaori, Angel Fall Arc
+_
+Kanzaki uses Nanasen
+purple
+magic_defense/health
+Kanzaki Kaori, nanasen, Index Arc
+_
+Kazakiri core exposed
+white
+crit_chance
+Kazakiri Hyouka, Kazakiri Hyouka Arc
+_
+Kihara Amata punches Accelerator
+white
+attack
+Accelerator, Kihara, Academy City Invasion Arc
+_
+Komoe heals Index
+gold
+defense/endurance
+Index, Tsukuyomi Komoe, healing magic, Index Arc
+_
+Komoe hugs Stiyl
+green
+science_defense/science_attack
+Stiyl Magnus, Tsukuyomi Komoe, Daihaseisai Arc
+_
+Komoe reads a book
+normal_attack
+Tsukuyomi Komoe
+_
+Kuroko and Misaka in hospital
+green
+magic_defense/critDamge
+Misaka Mikoto, Shirai Kuroko, Remnant Arc
+_
+Kuroko and Misaka on Christmas
+purple
+crit_chance/health
+Misaka Mikoto, Shirai Kuroko, Christmas
+_
+Kuroko and Misaka on Lunar New Year
+gold
+crit_chance/faith
+Misaka Mikoto, Shirai Kuroko, Lunar New Year
+_
+_
+Kuroko and Misaka on Halloween
+purple
+science_attack/attack
+Misaka Mikoto, Shirai Kuroko, Halloween
+_
+Kuroko and Misaka serve cake
+purple
+normal_attack/attack
+Misaka Mikoto, Shirai Kuroko, Christmas, cake
+_
+Kuroko and Touma fan Misaka
+blue
+magic_defense/defense
+Kamijou Touma, Misaka Mikoto, Shirai Kuroko, fan, Academy City Invasion Arc
+_
+Kuroko and Uiharu
+purple
+health/attack
+Shirai Kuroko, Uiharu Kazari
+_
+Kuroko dropkicks Touma mid-dance
+purple
+normal_defense/defense
+Kamijou Touma, Misaka Mikoto, Shirai Kuroko, dropkick, dance, Daihaseisai Arc
+_
+Kuroko dropkicks Touma mid-selfie
+gold
+defense/faith
+Kamijou Touma, Misaka Kuroko, Shirai Kuroko, dropkick, selfie, Academy City Invasion Arc
+_
+Kuroko hides from Misaka
+purple
+magic_defense/attack
+Misaka Mikoto, Shirai Kuroko, Remnant Arc, tree diagram
+_
+Kuroko is disgusted
+green
+normal_defense/science_attack
+Shirai Kuroko, Sister's Arc
+_
+Kuroko meets Misaka Misuzu
+purple
+defense/attack
+Misaka Mikoto, Misaka Misuzu, Shirai Kuroko, Daihaseisai Arc
+_
+Last Order follows Accelerator
+blue
+normal_defense/health
+Accelerator, Last Order, rags
+_
+Last Order waves
+white
+magic_defense
+Last Order, Academy City Invasion Arc
+_
+Laura and Stiyl in London
+white
+science_attack
+Laura Stuart, Stiyl Magnus
+_
+Level 5 Halloween
+gold
+crit_damage/power
+Kakine Teitoku, Misaka Mikoto, Shokuhou Misaki, Halloween
+_
+Mikoto and Imouto on Valentine's Day
+gold
+crit_damage/faith
+Misaka Imouto, Miska Mikoto, Valentine's Day
+_
+Mikoto and Imouto
+purple
+defense/attack
+Misaka Imouto, Misaka Imouto, Sister's Arc
+_
+Misaka gives Touma cookies
+blue
+science_defense/science_attack
+Kamijou Touma, Misaka Mikoto, cookies, hospital
+_
+Misaka charges Touma
+purple
+crit_chance/health
+Kamijou Touma, Kamijou Touma, charge, date
+_
+Misaka rides a caurosel
+gold
+magic_defense/endurance
+_
+Misaka sleeps while Kuroko has angst
+green
+Misaka Mikoto, Shirai Kuroko, Academy City Invasion Arc, Tokiwadai dorm
+_
+Misaka strolls to Touma
+blue
+health_regen/health
+Kamijou Touma, Misaka Mikoto, date
+_
+Misaka flips coin on bridge
+purple
+move_speed/attack
+Misaka Mikoto, coin, bridge
+_
+Misaka in swimsuit
+purple
+health/normal_attack
+Misaka Mikoto, beach
+_
+Misaka kicks vending machine
+gold
+defense/agility
+Kamijou Touma, Misaka Mikoto, vending machine, kick
+_
+Misaka makes a lightning bolt
+purple
+magic_defense/defense
+Misaka Mikoto, lightning bolt, Index Arc
+_
+Misaka overhears Touma
+gold
+health/agility
+Etzali, Kamijou Touma, Misaka Mikoto, protect, Three Stories Arc
+_
+Misaka teaches Uiharu violin
+blue
+science_defense/normal_attack
+Misaka Mikoto, Uiharu Kazari, Academy City Invasion Arc
+_
+Misakas deliberate
+purple
+science_defense/science_attack
+Misaka Imouto, Academy City Invasion Arc
+_
+Misakas grab Touma
+white
+science_defense
+Kamijou Touma, Last Order, Misaka Imouto, Academy City Invasion Arc
+_
+Misha as an Angel
+gold
+health/endurance
+Misha Kreutzev, Sasha Kreutzev, Angel Fall Arc, Gabriel
+_
+Mugino and Oriana
+gold
+magic_attack/science_attack
+_
+Orsola wipes Touma's face
+white
+health
+Kamijou Touma, Orsola Aquinas, Orsola Aquinas Arc
+_
+Ouma casts spell
+white
+science_defense
+Yamisaka Ouma, Three Stories Arc
+_
+President Kuroko
+green
+science_defense/crit_chance
+Shirai Kuroko, Angel Fall Arcc
+_
+Railgun Four ice skate
+purple
+defense/attack
+Misaka Mikoto, Saten Ruiko, Shirai Kuroko, Uiharu Kazari, Christmas, Railgun Four
+_
+Railgun Six
+purple
+attack/health
+!
+Edasaki Banri, Haruue Erii, Misaka Mikoto, Saten Ruiko, Shirai Kuroko, Uiharu Kazari, Railgun Six
+_
+Sisters power windmills
+purple
+science_defense/health
+Misaka Imouto, Sister's Arc, windmill
+_
+Summer outing
+gold
+crit_chance/faith
+Index, Itsuwa, Kanzaki Kaori, Musujime Awaki
+_
+Tessou scolds Saten
+purple
+defense/health
+Saten Ruiko, Tessou Tsuzuri
+_
+Touma's determined classmates
+green
+normal_defense/normal_attack
+Aogmai Pierce, Fukiyose Seiri, Kamijou Touma, Daihaseisai Arc
+_
+Touma and Misaka take selfie
+purple
+normal_attack/attack
+Kamijou Touma, Misaka Mikoto, Academy City Invasion Arc, selfie
+_
+Touma and Stiyl charge Oriana
+purple
+move_speed/defense
+Kamijou Touma, Oriana Thomson, Stiyl Magnus, Daihaseisai Arc
+_
+Touma and Tsuchimikado check phone
+purple
+move_speed/health
+Kamijou Touma, Tsuchimikado Motoharu, Daihaseisai Arc
+_
+Touma breaks Index's walking church
+purple
+health_regen/attack
+Index, Kamijou Touma, walking church
+_
+Touma bumps into Oriana
+purple
+normal_defense/health
+Kamijou Touma, Oriana Thomson
+_
+Touma calls Accelerator
+green
+magic_defense/health
+Accelerator, Kamijou Touma, Academy City Invasion Arc, call
+_
+Touma carries Index to Komoe's
+purple
+crit_damage/defense
+Index, Kamijou Touma, Tsukuyomi Komoe, carry
+_
+Touma carries Kuroko
+blue
+magic_defense/magic_attack
+_
+Touma charges Accelerator
+blue
+magic_defense/science_attack
+Accelerator, Kamijou Touma, Sister's Arc
+_
+Touma confronts Agnese
+green
+magic_defense/crit_chance
+Agnese Sanctis, Kamijou Touma, Orsola Aquinas Arc
+_
+Touma confronts Hamazura
+green
+normal_defense/crit_chance
+Hamazura Shiage, Kamijou Touma, Misaka Misuzu
+_
+Touma confronts Misaka
+blue
+magic_defense, attack
+Kamijou Touma, Misaka Mikoto, Sister's Arc, bridge
+_
+Touma drinks Misaka's drink
+green
+science_defense/health
+Kamijou Touma, Misaka Mikoto, Daihaseisai Arc, drink
+_
+Touma faces Innocentius
+green
+magic_defense/defense
+Kamijou Touma, Stiyl, Index arc, Innocentius
+_
+Touma feeds Himegami
+green
+magic_defense/normal_attack
+Himegami Aisa, Kamijou Touma, Deep Blood Arc, feed
+_
+Touma gets restrained in hotel
+purple
+crit_chance/defense
+Index, Kamijou Touma, angel fall, hotel, restrained
+_
+Touma loses his memory
+blue
+science_defense/health
+Kamijou Touma, memory loss, feathers
+_
+Touma meets Index
+gold
+health/faith
+Index, Kamijou Touma, meet
+_
+Touma over Misaka
+white
+defense
+Kamijou Touma, Misaka Mikoto, Daihaseisai Arc
+_
+Touma ponders Index's condition
+purple
+move_speed/attack
+Index, Kamijou Touma, Index Arc, Komoe's house
+_
+Touma punches Etzali
+white
+normal_attack
+Etzali, Kamijou Touma, Three Stories Arc
+_
+Touma sees Misaka's bear
+white
+health_regen
+Kamijou Touma, Sister's Arc, Tokiwadai
+_
+Touma speaks with Touya
+blue
+normal_defense/normal_attack
+Kamijou Touma, Kamijou Touya, sunset, Angel Fall
+_
+Touma tackles Misaka
+purple
+health_regen/health
+Kamijou Touma, Misaka Mikoto, Daihaseisai Arc
+_
+Touma unleashes his dragon
+purple
+normal_defense/attack
+Aureolus Izzard, Kamijou Touma, dragon
+_
+Touma walks in on Index
+green
+normal_defense/magic_attack
+Index, Kamijou Touma, La Regina del Mare Adriatico Arc
+_
+Touya meets Oriana
+white
+normal_defense
+Kamijou Shiina, Kamijou Touya, Oriana Thomson, Daihaseisai Arc
+_
+Tree Diagram is destroyed
+white
+defense
+Index, Tree Diagram, Index Arc
+_
+Tsuchimikado destroys Touma's house
+purple
+science_defense/damage
+Tsuchimikado Motoharu, Angel Fall, auto-rebirth, casts spell
+_
+Tsuchimikado talks to Touma in his house
+green
+magic_defense/attack
+Kamijou Touma, Tsuchimikado Motoharu, Angel Fall
+_
+World Cup 1
+gold
+normal_attack/power
+Oriana Thomson, Shirai Kuroko, Yuriko, soccer
+_
+World Cup 2
+gold
+normal_attack/faith
+Frenda Seivelun, Index, Itsuwa, Misaka Imouto, soccer
+_
+Windowless Building
+gold
+health/constitution
+Accelerator,Windowless Building
+_
+Young Misaka
+gold
+attack/faith
+Misaka Mikoto, young, DNA map
+_
+Ys Celceta
+gold
+health_regen/endurance
+Adol Christin, Ys
+_
+Ys I and II
+purple
+health_regen/health
+Ys
+_
+Ys Origin
+purple
+move_speed/attack
+Ys
+_
+Ys VI
+purple
+move_speed/defense
+Ys
+_
+Ys VII
+gold
+health_regen/power
+Ys
+_
+Ys VIII
+gold
+health_regen/faith
+Adol Christin, Ys
+_

@@ -1,0 +1,85 @@
+Misaka Mikoto
+2
+blue
+attack/science_defense/free
+44/50
+4
+_
+Misaka Mikoto
+3
+blue
+defense/attack/free
+22/50
+2
+_
+Misaka Mikoto
+30
+blue
+health/attack/free
+880/50
+80
+_
+Misaka Mikoto
+11
+gold
+crit_chance/attack/free/date
+0.0228/50
+0.0008
+_
+Misaka Mikoto
+8
+gold
+crit_damage/science_defense/defense/free
+0.1140/50/25
+0.0040
+
+_
+Misaka Mikoto
+50
+gold
+health/attack/crit_damage/free
+2280/50/0.0050
+80
+_
+Misaka Mikoto
+9
+gold
+magic_defense/attack/science_attack/free
+114/50/55
+4
+_
+Misaka Mikoto
+10
+gold
+science_attack/attack/science_defense/free
+125/50/50
+4.41
+_
+Misaka Mikoto
+1
+green
+attack/health
+24/1000
+4
+_
+Misaka Mikoto
+5
+purple
+attack/defense/free
+104/25
+4
+_
+Misaka Mikoto
+40
+purple
+health/attack/free
+2080/50
+80
+_
+Misaka Mikoto
+6
+purple
+crit_chance/attack/free
+0.0208/50
+0.0008
+_

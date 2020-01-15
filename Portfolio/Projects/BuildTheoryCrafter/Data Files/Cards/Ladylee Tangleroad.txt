@@ -1,0 +1,7 @@
+Ladylee Tangleroad
+1
+green
+magic_defense/health
+24/1000
+4
+_

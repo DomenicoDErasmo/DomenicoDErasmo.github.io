@@ -1,0 +1,7 @@
+Dana Iclucia
+1
+gold
+defense/crit_damage/free/free
+57/0.0500
+2
+_

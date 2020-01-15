@@ -1,0 +1,14 @@
+Laura Stuart
+8
+gold
+crit_chance/health/defense/free
+0.0228/1000/25
+0.0008
+_
+Laura Stuart
+5
+purple
+crit_damage/health_regen/free
+0.1040/5
+0.0040
+_

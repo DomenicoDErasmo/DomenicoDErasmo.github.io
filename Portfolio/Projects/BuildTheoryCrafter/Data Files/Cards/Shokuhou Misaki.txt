@@ -1,0 +1,14 @@
+Shokuhou Misaki
+8
+gold
+attack/health/defense/free
+114/1000/25
+4
+_
+Shokuhou Misaki
+5
+purple
+attack/health/free
+104/1000
+4
+_

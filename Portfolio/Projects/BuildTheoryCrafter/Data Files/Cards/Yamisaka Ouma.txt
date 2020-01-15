@@ -1,0 +1,13 @@
+Yamisaka Ouma
+2
+blue
+crit_chance/magic_defense/free
+0.0088/50
+0.0008
+_
+Yamisaka Ouma
+1
+green
+attack/magic_defens
+24/50
+4

@@ -1,0 +1,49 @@
+Aqua of the Back
+2
+blue
+crit_damage/magic_attack/free
+0.0440/55
+0.0040
+_
+Aqua of the Back
+0
+gold
+crit_damage/magic_attack/free/free
+0.1140/55
+0.0040
+_
+Aqua of the Back
+8
+gold
+defense/health/attack/free
+57/1000/50
+2
+_
+Aqua of the Back
+9
+gold
+health/defense/crit_damage/free
+2280/25/0.0500
+80
+_
+Aqua of the Back
+0
+gold
+move_speed/attack/move_speed/free
+1.14/50/0.5
+0.04
+_
+Aqua of the Back
+5
+purple
+health/crit_chance/free
+2080/0.01
+80
+_
+Aqua of the Back
+6
+purple
+move_speed/health/free
+1.04/1000
+0.04
+_

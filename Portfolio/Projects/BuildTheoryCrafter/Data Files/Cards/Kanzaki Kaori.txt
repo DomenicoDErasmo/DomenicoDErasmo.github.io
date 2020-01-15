@@ -1,0 +1,56 @@
+Kanzaki Kaori
+2
+blue
+crit_chance/normal_attack/free
+0.0880/55
+0.0008
+_
+Kanzaki Kaori
+3
+blue
+crit_damage/crit_damage/free
+0.0440/0.0500
+0.0040
+_
+Kanzaki Kaori
+9
+gold
+crit_chance/attack/free/date
+0.0228/50
+0.0004
+_
+Kanzaki Kaori
+8
+gold
+magic_attack/health/attack/free
+125/1000/50
+4.41
+_
+Kanzaki Kaori
+10
+gold
+magic_attack/attack/science_defense/free
+125/50/50
+4.41
+_
+Kanzaki Kaori
+1
+green
+crit_chance/normal_attack
+0.0480/55
+0.0040
+_
+Kanzaki Kaori
+6
+purple
+crit_chance/attack/free
+0.0208/50
+0.0008
+_
+Kanzaki Kaori
+5
+purple
+magic_attack/defense/free
+114/25
+4.41
+_

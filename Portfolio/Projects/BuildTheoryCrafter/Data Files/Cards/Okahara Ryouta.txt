@@ -1,0 +1,14 @@
+Okahara Ryouta
+2
+blue
+defense/attack
+22/50
+2
+_
+Okahara Ryouta
+1
+green
+science_defense/normal_defense
+24/50
+4
+_

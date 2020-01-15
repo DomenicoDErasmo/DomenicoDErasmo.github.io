@@ -1,0 +1,14 @@
+Kamijou Touya
+2
+blue
+defense/normal_attack/free
+22/55
+2
+_
+Kamijou Touya
+5
+purple
+science_defense/magic_attack/free
+104/55
+4
+_

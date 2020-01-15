@@ -1,0 +1,14 @@
+Kakine Teitoku
+8
+gold
+normal_defense/crit_damage/attack/free
+114/0.0500/50
+4
+_
+Kakine Teitoku
+5
+purple
+defense/science_attack/free
+52/55
+2
+_

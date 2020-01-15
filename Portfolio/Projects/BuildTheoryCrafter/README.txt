@@ -1,0 +1,3 @@
+Note: This project is unfinished. While it may be revisited at a later date, the hurdles involved in greater levels of required testing, coupled with a lack of interest in the original game, has resulted in me no longer working on the project.
+
+Despite not being worked on, the project has forced me how to test datasets to draw conclusions and has also forced me to keep my program files abstract and modular.

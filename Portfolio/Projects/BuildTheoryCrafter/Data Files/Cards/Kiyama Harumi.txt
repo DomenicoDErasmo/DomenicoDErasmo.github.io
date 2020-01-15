@@ -1,0 +1,35 @@
+Kiyama Harumi
+30
+blue
+crit_chance/defense/free
+0.0880/25
+0.0008
+_
+Kiyama Harumi
+2
+blue
+science_attack/science_attack/free
+48/55
+4.41
+_
+Kiyama Harumi
+50
+gold
+crit_chance/defense/crit_damage/free
+0.0228/25/0.0500
+0.0008
+_
+Kiyama Harumi
+1
+green
+crit_damage/crit_chance
+0.0240/0.0100
+0.0040
+_
+Kiyama Harumi
+40
+purple
+crit_chance/defense/free
+0.0208/25
+0.0008
+_

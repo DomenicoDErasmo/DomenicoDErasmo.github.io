@@ -1,0 +1,14 @@
+Komaba Ritoku
+2
+blue
+normal_attack/defense/free
+48/25
+4.41
+_
+Komaba Ritoku
+1
+green
+normal_attack/science_defense
+26/50
+4.41
+_
